@@ -1,0 +1,1911 @@
+[
+  {
+      "slug": "architecture",
+      "title": "ARCHITECTURE",
+      "description": "",
+      "imageUrl": "/projects/architecture/architecture.svg",
+      "projects": [
+        {
+            "id": 1,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
+            "title": "Mulluk Tower",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 A.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 B.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 C.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 E.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 F.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Mulluk Tower\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : B+G+9\nLand Area : 22 Katha\nLocation: Kamar Bari, Uttara, Dhaka"
+            }
+        },
+
+        {
+            "id": 2,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (1).jpg",
+            "title": "Nirala Complex",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (1).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (10).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (2).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (3).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (5).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (6).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (7).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (8).jpg",
+                    "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (9).jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Nirala Complex\nProject Type : Residential\nClient : Madina Developments Limited\nProject  Details : B+G+9\nLand Area : 20 Katha \nLocation: Uttara, Dhaka, Bangladesh"
+            }
+        },
+        
+        {
+            "id": 3,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/1.EXT_Hero CAM-1_04.jpg",
+            "title": "Mr Zakir Residence",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/1.EXT_Hero CAM-1_04.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/2.EXT_Hero CAM-2_03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/3.EXT_Arial Cam-1_03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/4.EXT_Arial Cam-2_03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/EXT_Roof Top_00.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/INT_Parking_00.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/WhatsApp Image 2024-08-12 at 5.15.31 PM.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Unnamed\nProject Type : Residential\nClient : Mr. Zakir & Others\nProject  Details : G+9\nLand Area : 6 Katha\nLocation: Bashundara, L-Block, Dhaka"
+            }
+        },
+
+        {
+            "id": 4,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_01-gigapixel-standard-scale-2_00x.jpg",
+            "title": "Golam Rasul Jalshiri",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_01-gigapixel-standard-scale-2_00x.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_02.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_04.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Unnamed\nProject Type : Residential\nClient : Brig. Gen Golam Rasul\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: Jolshiri Abashon, Sector-16, Dhaka"
+            }
+        },
+
+        {
+            "id": 5,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/03.png",
+            "title": "Adel Pavilion",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/03.png",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/01.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/02.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/04.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/05.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/06.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/07.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/08.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/09.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Adel Pavilion\nProject Type : Residential\nClient : Office & home Solutions\nProject  Details : 2B+G+13\nLand Area : 20 Katha\nLocation: Dhanmondi, Dhaka, Bangladesh"
+            }
+        },
+
+        {
+            "id": 6,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/01.jpg",
+            "title": "Madina Venus",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/01.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/02.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/04.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/05.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Madina Venus\nProject Type : Residential\nClient : Madina developments Limited\nProject  Details : G+9\nLand Area : 5 Katha \nLocation: Bashundara, Dhaka, Bangladesh"
+            }
+        },
+
+        {
+            "id": 7,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/07- Westlawn/01.png",
+            "title": "Westlawn",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/04.png",
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/05.png",
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/06.png",
+                    "/projects/architecture/03- RESIDENTIAL/07- Westlawn/03.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Westlawn\nProject Type : Residential \nClient : Office & Home Solutions\nProject  Details : G+8\nLand Area : 6 Katha\nLocation: Uttara , Sector-5 ,Dhaka"
+            }
+        },
+
+        {
+            "id": 8,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/08- Sardar Complex/01.png",
+            "title": "Sardar Complex",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/08- Sardar Complex/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/08- Sardar Complex/02.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Sardar Complex\nProject Type : Residential\nClient : Mr. Sardar \nProject  Details : B+G+13\nLand Area : 12 Katha\nLocation: Bashabo, Dhaka, Bangladesh"
+            }
+        },
+        
+        {
+            "id": 9,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/09- Lashkar Tower/01.png",
+            "title": "Lashkar Tower",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/09- Lashkar Tower/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/09- Lashkar Tower/02.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Lashkor Tower\nProject Type : Residential\nClient : Madina Developments Limited\nProject  Details : B+G+13\nLand Area : 12 Katha\nLocation: Bashabo, Dhaka"
+            }
+        },
+        {
+            "id": 10,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/10- Masuda Tower/01.png",
+            "title": "Masuda Tower",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/10- Masuda Tower/01.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Masuda Tower \nProject Type : Residential\nClient : Madina Developments Limited\nProject  Details : 1B+G+9\nLand Area : 16 Katha\nLocation: Azimpur, Dhaka"
+            }
+        },
+        {
+            "id": 11,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/11- Shawkat Palace/01.png",
+            "title": "Shawkat Palace",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/11- Shawkat Palace/01.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Sawkat Palace\nProject Type : Residential\nClient : Basic Builders Limited\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: : Plot-11, Road 501, Sector 16 , Dhaka"
+            }
+        },
+        {
+            "id": 12,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/12- Reliant Paradise/01.png",
+            "title": "Reliant Paradise",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/12- Reliant Paradise/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/12- Reliant Paradise/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/12- Reliant Paradise/03.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Reliant Paradise \nProject Type : Residential\nClient : Reliant Builders Ltd.\nProject  Details : G+9\nLand Area : 11.25 Katha\nLocation: Dhania, Zatrabari, Dhaka"
+            }
+        },
+        {
+            "id": 13,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+            "title": "kanak chapa",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.02 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.13 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.23 PM.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Kanok Chapa\nProject Type : Residential\nClient : Mrs. Kanok Chapa\nProject  Details : G+4\nLand Area : 4 Katha\nLocation: Bashundara, L-Block, Dhaka"
+            }
+        },
+        {
+            "id": 14,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/14-Pori Banu Tower/Mr, Zaman ,Demra_High_00.jpg",
+            "title": "Pori Banu Tower",
+            "description": "",
+            "details": {
+                "images": [
+                   
+                    "/projects/architecture/03- RESIDENTIAL/14-Pori Banu Tower/Mr, Zaman ,Demra_High_00.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/14-Pori Banu Tower/Mr, Zaman ,Demra_High_01.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Pori Banu Tower\nProject Type : Residential\nClient : Mr. Zaman \nProject  Details : G+9\nLand Area : 6.5 Katha \nLocation: Demra, Dhaka"
+            }
+        },
+        {
+            "id": 15,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/01.jpg",
+            "title": "Udayan Tower",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/01.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/02.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/03.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/04.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Uddayan Tower\nProject Type : Residential\nClient : Rahmat Ali Chowdhury and Gong\nProject  Details : G+9\nLand Area : 7.25 Katha\nLocation: Dogair, Demra, Dhaka"
+            }
+        },
+        {
+            "id": 16,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/16- Ideal Green Valley/01.jpg",
+            "title": "Ideal Green Valley",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/16- Ideal Green Valley/01.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/16- Ideal Green Valley/02.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Ideal Green Valley \nProject Type : Residential\nClient : Rahmat Ali Chowdhury and Gong\nProject  Details : B+G+7\nLand Area : 8.5 Katha\nLocation: Dogair, Konapara, Demra, Dhaka"
+            }
+        },
+        {
+            "id": 17,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/17- Dream House/01.jpg",
+            "title": "Dream House",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/17- Dream House/01.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/17- Dream House/03.png",
+                    "/projects/architecture/03- RESIDENTIAL/17- Dream House/02.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Dream House \nProject Type : Residential\nClient : Mr. Kader and Gong\nProject  Details : B+G+9\nLand Area : 12 Katha\nLocation: Dogair, Konapara, Demra , Dhaka"
+            }
+        },
+        {
+            "id": 18,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/18- Rabbi House/Rabbi residence cam_01.jpg",
+            "title": "Rabbi House",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/18- Rabbi House/Rabbi residence cam_01.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/18- Rabbi House/Rabbi residence cam_02..jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Unnamed\nProject Type : Residential \nClient : Mr. Rabbi\nProject  Details : G+6\nLand Area : 3 Katha\nLocation: Aftabnagar, Dhaka"
+            }
+        },
+        {
+            "id": 19,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/01.jpeg",
+            "title": "Shawkat Villa",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/01.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/02.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/03.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/04.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Shawkat Villa \nProject Type : Residential\nClient : Mr. Shawkat\nProject  Details : G+2\nLand Area : 6.5 Katha \nLocation: Demra, Dhaka"
+            }
+        },
+        {
+            "id": 20,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/01.png",
+            "title": "Nasir House Basila",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/03.png",
+                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/04.png",
+                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/01.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Triplex House\nProject Type : Residential\nClient : Mr. Nasir\nProject  Details : G+2\nLand Area : 20 Khata\nLocation: Basila, Bangladesh"
+            }
+        },
+          {
+              "id": 21,
+              "category": "COMMERCIAL",
+              "image": "/projects/architecture/01- COMMERCIAL/01- Tower 71/01.png",
+              "title": "Tower 71",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/01.png",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/13.png",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/14.png",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/02.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/06.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/07.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/08.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/09.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/10.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/11.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/12.jpg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/03.jpeg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/04.jpeg",
+                      "/projects/architecture/01- COMMERCIAL/01- Tower 71/05.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Tower 71\nProject Type : Commercial  Highrise\nClient :  Madina Developments Limited\nProject Details : 4B+G+25\nLand Area : 14 Katha\nLocation: Agrabad, Chottogram."
+              }
+          },
+          {
+              "id": 22,
+              "category": "COMMERCIAL",
+              "image": "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/04.png",
+              "title": "Gulshan Ara Plaza",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/04.png",
+                      "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/01.jpeg",
+                      "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/02.jpeg",
+                      "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/03.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Gulshan Ara Plaza\nProject Type: Commercial Building\nClient : Madina Developments Limited\nProject  Details : 1B+G+9\nLand Area : 8 Katha\nLocation: Chawk Bazar, Dhaka"
+              }
+          },
+          {
+              "id": 23,
+              "category": "COMMERCIAL",
+              "image": "/projects/architecture/01- COMMERCIAL/03- UCEP Cheyne Tower/01.png",
+              "title": "UCEP Cheyne Tower",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/01- COMMERCIAL/03- UCEP Cheyne Tower/01.png",
+                      "/projects/architecture/01- COMMERCIAL/03- UCEP Cheyne Tower/02.png",
+                      "/projects/architecture/01- COMMERCIAL/03- UCEP Cheyne Tower/03.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: UCEP Cheyne Tower\nProject Type : Commercial\nClient : UCEP\nProject  Details: 2B+G+5\nLand Area: 10 Katha\nLocation: Segun Bagicha, Dhaka."
+              }
+          },
+          {
+              "id": 24,
+              "category": "COMMERCIAL",
+              "image": "/projects/architecture/01- COMMERCIAL/04- Green Villa/01.png",
+              "title": "Green Villa",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/01- COMMERCIAL/04- Green Villa/01.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Green Villa\nProject Type : Commercial\nClient : Madina Developments Limited\nProject  Details : 1B+G+9\nLand Area :  10 Katha\nLocation: Green Road, Dhanmondi, Dhaka"
+              }
+          },
+          {
+            "id": 25,
+            "category": "COMMERCIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+            "title": "kanak chapa",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.02 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.13 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.23 PM.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Kanok Chapa\nProject Type : Residential\nClient : Mrs. Kanok Chapa\nProject  Details : G+4\nLand Area : 4 Katha\nLocation: Bashundara, L-Block, Dhaka"
+            }
+        },
+          {
+              "id": 26,
+              "category": "MIXED USED",
+              "image": "/projects/architecture/02- MIXED USED/01- J.K Tower/01.png",
+              "title": "JK Tower",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/02- MIXED USED/01- J.K Tower/01.png",
+                      "/projects/architecture/02- MIXED USED/01- J.K Tower/02.png",
+                      "/projects/architecture/02- MIXED USED/01- J.K Tower/03.png",
+                      "/projects/architecture/02- MIXED USED/01- J.K Tower/04.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: J.k Tower\nProject Type: Mixed Used (Commercial+Residential)\nClient: J.k Real Estate \nProject  Details: 2B+G+13\nLand Area: 10 Katha\nLocation: K.C  Dey Road, Chottogram."
+              }
+          },
+          {
+              "id": 27,
+              "category": "MIXED USED",
+              "image": "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (1).jpg",
+              "title": "Shadhinota Bhaban",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (1).jpg",
+                      "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (2).jpg",
+                      "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (3).jpg",
+                      "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (4).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Shadhinota Bhaban, Tikatuli\nProject Type : Mixed Used Building (Commercial & Residential)\nClient : Madina Developments Limited\nProject Details : 2B+G+14\nLand Area : 22 Katha\nLocation: Tikatoli, Dhaka."
+              }
+          },
+          
+          {
+              "id": 28,
+              "category": "MIXED USED",
+              "image": "/projects/architecture/02- MIXED USED/03- Erfan Tower/01 (1).jpg",
+              "title": "Erfan Tower",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/02- MIXED USED/03- Erfan Tower/01 (1).jpg",
+                      "/projects/architecture/02- MIXED USED/03- Erfan Tower/01 (2).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Erfan Tower\nProject Type : Mixed Used (Commercial & Residential)\nClient : Madina Developments Limited\nProject  Details : B+G+12\nLand Area : 22 Katha\nLocation: Mitford, Dhaka"
+              }
+          },
+          
+          
+          {
+              "id": 29,
+              "category": "INSTITUTE",
+              "image": "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-1_VF_00.jpg",
+              "title": "Prime Medical College Hospital Nursing Institute  Dormatory",
+              "description": "",
+              "details": {
+                  "images": [
+                      
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/7.png",
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-1_VF_00.jpg",
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-2_VF_00.jpg",
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-3_VF_00.jpg",
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-4_VF_00.jpg",
+                      "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-5_VF_00.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: PMCH \u00e2\u20ac\u201c Prime Medical College  Hospital\nProject Type : Nursing Institute & dormatory\nClient : T.K Group\nProject  Details : G+9\nLand Area : 14 Katha\nLocation: Badarganj Road, Rangpur"
+              }
+          },
+          {
+              "id": 30,
+              "category": "INSTITUTE",
+              "image": "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -1.jpg",
+              "title": "Prime Medical Hospital Girls Hostel",
+              "description": "",
+              "details": {
+                  "images": [
+                      
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -1.jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -3.jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -4.jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -5.jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -6.jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/PMCH G H print 3(3).jpg",
+                      "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/07.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Prime Medical College Hospital\nProject Type : Girls Hostel\nClient : T.K Group\nProject  Details : G+9\nLand Area : 10 Katha\nLocation: Baderganj Road, Rangpur"
+              }
+          },
+          {
+              "id": 31,
+              "category": "INSTITUTE",
+              "image": "/projects/architecture/04- INSTITUTE/03- Shopno Chura Resort  & Training Center/02.png",
+              "title": "Shopno Chura Resort  Training Center",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/04- INSTITUTE/03- Shopno Chura Resort  & Training Center/02.png",
+                      "/projects/architecture/04- INSTITUTE/03- Shopno Chura Resort  & Training Center/01.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": ""
+              }
+          },
+          {
+              "id": 32,
+              "category": "HOSPITAL",
+              "image": "/projects/architecture/05- HOSPITAL/02- Prime Medical College Hospital/01.jpeg",
+              "title": "Prime Medical College Hospital",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/05- HOSPITAL/02- Prime Medical College Hospital/01.jpeg",
+                      "/projects/architecture/05- HOSPITAL/02- Prime Medical College Hospital/02.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Prime Medical College Hospital\nProject Type : Hospital\nClient : T.K Group\nProject  Details : G+7\nLand Area : 2 Acre\nLocation: Badergang Road, Rangpur"
+              }
+          },
+          {
+              "id": 33,
+              "category": "HOSPITAL",
+              "image": "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.31.53 PM.jpeg",
+              "title": "Proposal For Universal Medical College And Hospital",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.31.12 PM.jpeg",
+                      "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.31.30 PM.jpeg",
+                      "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.31.53 PM.jpeg",
+                      "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.32.31 PM.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Proposal For Universal Medical College And Hospital \nProject Type : Hospital \nClient : UMCH\nProject  Details : 3B+G+20\nLand Area : 14 Katha\nLocation: Green Road, Dhaka"
+              }
+          },
+          {
+              "id": 34,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 01.jpg",
+              "title": "GML Yarn Dying Factory",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 01.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 02.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 03.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 05.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 06.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: GML Yarn Dying Factory \nProject Type : Factory\nClient : GML Group\nProject  Details : G+9\nLand Area : 50 Katha\nLocation: Konabari, Gazipur"
+              }
+          },
+          {
+              "id": 35,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/02- Tasliman/01.png",
+              "title": "Tasliman",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/02- Tasliman/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/02- Tasliman/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/02- Tasliman/03.png",
+                      "/projects/architecture/06- INDUSTRIAL/02- Tasliman/04.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Talisman \nProject Type : Factory\nClient : Talisman Limited \nProject  Details : G+1\nLand Area : 3.5 laks sqft\nLocation: EPZ Savar,Dhaka"
+              }
+          },
+          {
+              "id": 36,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 01.jpg",
+              "title": "Pacific Jeans Denim Factory",
+              "description": "",
+              "details": {
+                  "images": [
+                      
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 01.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 02.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 04.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 05.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/front ele.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/left ele.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/top view.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Pacific Jeans denim Factory\nProject Type : Factory (Proposal)\nClient : Facific Jeans Limited \nProject  Details : G+4\nLand Area : 5 Bigha\nLocation: Chottogram"
+              }
+          },
+          {
+              "id": 37,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (1).jpg",
+              "title": "Print Craft factory",
+              "description": "",
+              "details": {
+                  "images": [
+                      
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (1).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (10).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (2).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (3).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (4).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (5).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (6).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (7).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (8).jpg",
+                      "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (9).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Print Craft factory\nProject Type : Factory\nClient : Office & Homes Solutions\nProject  Details : G+4\nLand Area : 3 Bigha \nLocation: H \u00e2\u20ac\u201c 40, R \u00e2\u20ac\u201c 08, Serctor \u00e2\u20ac\u201c 03 , Gazipur."
+              }
+          },
+          {
+              "id": 38,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/05- Arvind/01.png",
+              "title": "Arvind",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/05- Arvind/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/05- Arvind/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/05- Arvind/03.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Arvind\nProject Type : Factory Textile Industries \nClient : Arvind\nProject  Details : G+2\nLand Area : 5 Bigha\nLocation: Comilla Epz."
+              }
+          },
+          {
+              "id": 39,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/01.png",
+              "title": "Bat Kustia Glt Line 1",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/03.png",
+                      "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/04.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Bat Kustia Glt Line 1\nProject Type : Extension With Exsting Factory \nClient : British American Tobacco\nProject  Details : G+1\nLand Area : 9 Bigha\nLocation: Kustia"
+              }
+          },
+          {
+              "id": 40,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/07- Saiham Ware House/01.png",
+              "title": "Saiham Ware House",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/07- Saiham Ware House/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/07- Saiham Ware House/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/07- Saiham Ware House/03.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Saiham Ware House \nProject Type : Factory \nClient : Saiham Knit Composite Limited\nProject  Details : G+4\nLand Area : 17K Sqft\nLocation: Habiganj, Sylhet"
+              }
+          },
+          {
+              "id": 41,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/08- Pretty Wool Ware Ltd/02.png",
+              "title": "Pretty Wool Ware Ltd",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/08- Pretty Wool Ware Ltd/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/08- Pretty Wool Ware Ltd/01.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Pretty Wool Ware Ltd\nProject Type : Factory\nClient : Pretty Group\nProject  Details : G+9\nLand Area : 2 Bigha\nLocation: Bhabanipur, Gazipur, Bangladesh"
+              }
+          },
+          {
+              "id": 42,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/03.png",
+              "title": "Pan Pacific Sweeters",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/03.png",
+                      "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/04.png",
+                      "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/05.png",
+                      "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/01.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/02.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Pan Pacific Sweeters\nProject Type : Factory \nClient : Pan Pretty Group \nProject  Details : G+6\nLand Area : 9 Bigha\nLocation: Gazipur Salna"
+              }
+          },
+          {
+              "id": 43,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/01.png",
+              "title": "Star Gypsum Board Mills Ltd",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/02.png",
+                      "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/03.png",
+                      "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/04.png",
+                      "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/05.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Star Gypsum Board Mills Ltd\nProject Type : Factory \nClient : Partex group\nProject  Details : G+3\nLand Area : 8 Bigha\nLocation: Madanpur, Narayanganj"
+              }
+          },
+          {
+              "id": 44,
+              "category": "INDUSTRIAL",
+              "image": "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/01.png",
+              "title": "Partex Cables",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/01.png",
+                      "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/04.png",
+                      "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/02.jpg",
+                      "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/03.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Partex Cables\nProject Type : Factory \nClient : Partex Group\nProject  Details : G+5\nLand Area : 4 Bigha\nLocation: Madanpur, Narayanganj"
+              }
+          },
+          {
+              "id": 45,
+              "category": "FILLING STATION",
+              "image": "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (1).jpg",
+              "title": "abm filing station",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (1).jpg",
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (2).jpg",
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (3).jpg",
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (4).jpg",
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (5).jpg",
+                      "/projects/architecture/07-FILLING STATION/01- abm filing station/black.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  ABM Filling Station\nProject Type : Filling Station\nClient : Madina Developments Limited \nProject  Details : G+4\nLand Area : 20 Katha\nLocation: Kustia"
+              }
+          },
+          {
+              "id": 46,
+              "category": "FILLING STATION",
+              "image": "/projects/architecture/07-FILLING STATION/02- Madina Petroleum/madina  petrolium.jpg",
+              "title": "Madina Petroleum",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/07-FILLING STATION/02- Madina Petroleum/madina  petrolium.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Madina Petroleum L.P.G \nProject Type : Filling Station\nClient : Madina Developments Limited \nProject  Details : G+1\nLand Area : 25 Katha\nLocation: Cox's Bazar, Dulahazra"
+              }
+          },
+          {
+              "id": 47,
+              "category": "FILLING STATION",
+              "image": "/projects/architecture/07-FILLING STATION/03- Madina Filling Stations/01.jpeg",
+              "title": "Madina Filling Stations",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/07-FILLING STATION/03- Madina Filling Stations/01.jpeg",
+                      "/projects/architecture/07-FILLING STATION/03- Madina Filling Stations/02.jpeg",
+                      "/projects/architecture/07-FILLING STATION/03- Madina Filling Stations/03.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name:  Madina Filling Stations \nProject Type : Filling Station\nClient : Madina Developments Limited \nProject  Details : G+1\nLand Area : 15 Katha\nLocation: Chokoria,Cox's Bazar."
+              }
+          },
+          {
+              "id": 48,
+              "category": "STALL DESIGN",
+              "image": "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/01.jpg",
+              "title": "Super Board  Green Board",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/01.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/02.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/03.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/04.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/05.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/06.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/07.jpg",
+                      "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/08.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Super Board & Green Board.(PROPOSAL)\nProject Type : Stall Design\nClient : T.K Group\nProject  Details : G\nLocation: T.K Bhaban, Kawran Bazar, Dhaka"
+              }
+          },
+          {
+              "id": 49,
+              "category": "HOTEL & RESORT",
+              "image": "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/0001.png",
+              "title": "TK RESORT",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/0001.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/001.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/02.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/03.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/04.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/05.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/06.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/07.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/08.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/09.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/10.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/11.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/12.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/13.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/14.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/15.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/16.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/17.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/18.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/19.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/20.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/21.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/22.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/23.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/24.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/25.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/26.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/27.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/29.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/30.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/31.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/32.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/33.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/34.png",
+                      "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/35.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: T.K Resort (PROPOSAL)\nProject Type : RESORT\nClient : T.K Group\nProject  Details : G+3\nLand Area : 14.26 Acre\nLocation: Shilchori, Kaptai"
+              }
+          }
+      ]
+  },
+  {
+      "slug": "interior",
+      "title": "INTERIOR",
+      "description": "",
+      "imageUrl": "/projects/interior/interior.jpg",
+      "projects": [
+          {
+              "id": 1,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/01.jpg",
+              "title": "GRAMEEN PHONE JAMUNA FUTURE PARK",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (1).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (10).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (11).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (12).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (13).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (14).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (15).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (2).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (3).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (4).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (5).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (6).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (7).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (8).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/02 (9).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (1).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (10).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (11).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (12).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (13).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (14).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (15).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (16).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (2).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (3).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (4).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (5).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (6).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (7).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (8).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/01- GRAMEEN PHONE (JAMUNA FUTURE PARK)/03 (9).JPG"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Grameenphone Experience Center\nProject Type : Office Interior\nClient : Grameenphone\nProject  Details : Interior Design & Fit Out Work\nLocation: Jamuna Future Park, Dhaka"
+              }
+          },
+          {
+              "id": 2,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_00.jpg",
+              "title": "BANGLALINK TIGER DEN",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_02.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_03.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_04.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/150122_work station_05.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0000.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0001.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0002.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0003.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0004.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/02- BANGLALINK TIGER DEN/reception0005.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/03- BANGLALINK/150122_work station_03.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/03- BANGLALINK/150122_work station_04.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Blink Tigerden Proposal\nProject Type : Office Interior\nClient : Banglalink\nProject  Details : Interior Design & Fit-out Works\nLocation: Dhaka, Tiger's Den, House 4 (SW, Bir Uttam Mir Shawkat Sarak,"
+              }
+          },
+          
+          {
+              "id": 3,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (1).jpeg",
+              "title": "BProperty",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (11).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (16).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (17).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (19).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (20).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (22).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (26).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (3).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (31).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (37).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (38).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (4).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (41).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/04- BProperty/01 (42).jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Bproperty Dhaka Office\nProject Type : Office Interior\nClient : Bproperty\nProject  Details : Interior Design & Fit-out Works \nLocation: Banani, Block D, Plot 74 Rd 11, Dhaka 1212."
+              }
+          },
+          {
+              "id": 4,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/Picture1.jpg",
+              "title": "AFD Dhaka Office",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/Picture1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/Picture3.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/01.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.56.58 PM.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.04 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.05 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.05 PM (2).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.07 PM (2).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.10 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.11 PM.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/05- AFD Dhaka Office/WhatsApp Image 2024-08-12 at 3.57.13 PM.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For AFD\nProject Type : Office Interior\nClient : AFD\nProject  Details : Interior Design & Fit-out Works\nLocation: Kemal Ataturk Avenue, Banani, Dhaka"
+              }
+          },
+          {
+              "id": 5,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Director Room-Opt-1.jpg",
+              "title": "TK Bahan Level 4 Kawran Bazar",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Director Room-Opt-1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/H R-1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/IT DEPARTMENT-1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/IT M. Room.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Legal Room.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Meeting Room_10.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Recption-10.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Service counter.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/SR. MANAGER .jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/W R-1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/W R-2.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/W R-5.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works for T.K Bahan Level-4 Kawran Bazar\nProject Type : Office Interior\nClient : T.K Group\nProject  Details : Interior Design & Fit-out Works\nLocation: Kawran Bazar, Level 4, Dhaka."
+              }
+          },
+
+          {
+              "id": 6,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/01.jpg",
+              "title": "99 Dhaka Trade Center",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Lobby_1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Lobby_2.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Meeting Room_1 (1).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Meeting Room_1 (2).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Meeting Room_1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/08- 99 Dhaka Trade Center/dhaka trade center_Workstation_2.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Brefing Room-1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Brefing Room-2.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Lab Room -1.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Lab Room -2.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Lab Room -3.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Lab Room -4.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Reciption.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-10.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-20.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-30.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-40.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-50.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/07- T.K 99 Dhaka Trade Center Kawran Bazar/Workstation-60.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For T.K Group\nProject Type : Office Interior\nClient : T.K Group\nProject  Details : Interior Design & Fit-out works \nLocation: 99 Dhaka, Kawran Bazar, Dhaka"
+              }
+          },
+          {
+              "id": 7,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/01.jpg",
+              "title": "Tower 71 Madina Office CTG",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Conference Room_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/MD Room_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Reception-1_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Reception-2_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Workstation-1_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Workstation-2_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/09- Tower 71 Madina Office CTG/Workstation-3_00.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Tower 71, Madina Office Ctg\nProject Type : Office Interior\nClient : Madina Group\nProject  Details : Interior Design & Fit Out Work\nLocation: Agrabad, Chottogram"
+              }
+          },
+          {
+              "id": 8,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/01.jpg",
+              "title": "MERIDIAN FINANCE",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/02.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/03.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/04.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/05.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/10- MERIDIAN FINANCE/d01.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For Meridian Finance. \nProject Type : Office Interior\nClient : Meridian Finance. \nProject  Details : Interior Design & Fit-out Works \nLocation: Silver Tower, 52 Gulshan Ave, Dhaka 1212."
+              }
+          },
+          {
+              "id": 9,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.08 PM.jpeg",
+              "title": "Laugfs Gas Bangladesh",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.08 PM.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.09 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.09 PM (2).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.12 PM.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.13 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.14 PM.jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.16 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.17 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.17 PM (2).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.18 PM (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.18 PM (2).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/11- Laugfs Gas Bangladesh/WhatsApp Image 2024-08-14 at 4.14.19 PM (1).jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For Laugfs Gas Bangladesh Limited\nProject Type : Office Interior\nClient : Laugfs Gas Bangladesh Limited\nProject  Details : Interior Design & Fit-out Works\nLocation: South Avenue Tower, H#50, Road #03, Gulshan Avenue, Dhaka."
+              }
+          },
+          {
+              "id": 10,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (1).JPG",
+              "title": "DHAKA TRIBUNE",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (1).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (10).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (11).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (12).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (13).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (14).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (15).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (2).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (3).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (4).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (5).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (6).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (7).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (8).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/12- DHAKA TRIBUNE/02 (9).JPG"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Dhaka Tribune\nProject Type : Office Interior\nClient : 2a-media Limited\u00c2\u00a0\nProject  Details : Interior Design & Fit-out Work\nLocation: FR Tower, 8/C Panthpath, Shukrabad, Dhaka 1207."
+              }
+          },
+          {
+              "id": 11,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V1_00.jpg",
+              "title": "Madina Tower Office",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V1_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V2_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V2_01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V3_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V4_00.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/13- Madina Tower Office/MADINA TOWER_V5_00.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Madina Tower Office\nProject Type : Office Interior\nClient : Madina Group\nProject  Details : Interior Design & Fit-out Works \nLocation: Water works Road, Lalbagh"
+              }
+          },
+          {
+              "id": 12,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/14- MP Hostel Office/MP Office 20.jpg",
+              "title": "MP Hostel Office",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/14- MP Hostel Office/MP Office 20.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/14- MP Hostel Office/MP Office 30.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/14- MP Hostel Office/MP Office0.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For MP Office\nProject Type : Office Interior\nClient : Dipankar Talukdar\nProject  Details : Interior Design & Fit-out Works \nLocation: Parliament Building"
+              }
+          },
+          {
+              "id": 13,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/15- DELTA/01.jpg",
+              "title": "DELTA",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/01.jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (1).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (3).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (4).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (5).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (6).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (7).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (8).jpg",
+                      "/projects/interior/01- OFFICE INTERIOR/15- DELTA/Delta renders (9).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Delta\nProject Type : Office Interior\nClient : Delta Insurance Ltd\nProject  Details : Interior Design & Fit Out Works\nLocation: Gulshan-2,dhaka"
+              }
+          },
+          {
+              "id": 14,
+              "category": "OFFICE INTERIOR",
+              "image": "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (1).JPG",
+              "title": "US AID BAGH",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (1).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (2).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (3).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (4).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (5).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (6).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (7).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (8).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/03 (9).JPG",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (1).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (4).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (5).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (6).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (7).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (8).jpeg",
+                      "/projects/interior/01- OFFICE INTERIOR/16- US AID BAGH/2 (9).jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For US AID BAGH\nProject Type : Office Interior\nClient : US AID BAGH\nProject  Details : Interior Design & Fit-out Works\nLocation: Gazipur, Bangladesh"
+              }
+          },
+          {
+              "id": 15,
+              "category": "SHOP INTERIOR",
+              "image": "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/01.jpg",
+              "title": "TK Pusti Showroom Kawran Bazar",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/01.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/Pusti display & sales_10.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/Pusti display & sales_20.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/Pusti display & sales_40.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/Pusti display & sales_50.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/01-  T.K Pusti Showroom Kawran Bazar/Pusti display & sales_60.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Pusti\nProject Type : Shop Interior\nClient : T.K Group\nProject  Details : Interior Design & Fit-out works \nLocation: T.K Bhaban, Kawran Bazar, Dhaka"
+              }
+          },
+          {
+              "id": 16,
+              "category": "SHOP INTERIOR",
+              "image": "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/01.jpg",
+              "title": "GOURMET BAZAR",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/01.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/02.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/05.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/After entry.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/Bakery.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/CHEESE1.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/Dairy.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/Fish.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/Fresh produce - Copy.jpg",
+                      "/projects/interior/02- SHOP INTERIOR/02- GOURMET BAZAR/Meat section option 2.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Gourmet Bazar\nProject Type : Shop Interior \nClient : Office & Homes Solutions\nProject  Details : Interior Design & Fit-out works \nLocation: Gulshan-2, Dhaka."
+              }
+          },
+          {
+              "id": 17,
+              "category": "SHOP INTERIOR",
+              "image": "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (1).jpg",
+              "title": "Meena Bazaar",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (1).jpg",
+                      "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (2).jpg",
+                      "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (3).jpg",
+                      "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (4).jpg",
+                      "/projects/interior/02- SHOP INTERIOR/03- Meena Bazaar/Meena Bazaar (5).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Meena Bazar\nProject Type : Shop Interior\nClient : Meena Bazar\nProject  Details : Interior Design & Fit Out Works \nLocation: Gulshan-2 ,Dhaka"
+              }
+          },
+          {
+              "id": 18,
+              "category": "RESTUARANT INTERIOR",
+              "image": "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/1.jpg",
+              "title": "GLASS HOUSE",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/1.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/1a.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/3.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/4.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/5.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/a.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/arial1 (1).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/arial1 (2).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/d.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/signage options (3).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/washroom4.jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/01- GLASS HOUSE/washroom4a.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For Glass House\nProject Type : Interior\nClient : Mr. Shabab Rahman\nProject  Details : Interior Design & Fit-out Works\nLocation: Gulshan Avenue , Road 113, Gulshan-2"
+              }
+          },
+          {
+              "id": 19,
+              "category": "RESTUARANT INTERIOR",
+              "image": "/projects/interior/03- RESTUARANT INTERIOR/02- COFFEE WORLD/01 (1).jpg",
+              "title": "COFFEE WORLD",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/03- RESTUARANT INTERIOR/02- COFFEE WORLD/01 (1).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/02- COFFEE WORLD/01 (2).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/02- COFFEE WORLD/01 (3).jpg",
+                      "/projects/interior/03- RESTUARANT INTERIOR/02- COFFEE WORLD/01 (4).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For Coffe World\nProject Type : Interior\nClient : Coffe World\nProject  Details : Interior Design & Fit-out Works \nLocation: Banani ,Dhaka"
+              }
+          },
+          {
+              "id": 20,
+              "category": "INSTITUTE INTERIOR",
+              "image": "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150204_reception_cam_01.RGB_color.0000.jpg",
+              "title": "AURORA INT SCHOOL",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150204_reception_cam_01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150204_reception_cam_02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150215_play area.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150215_play area02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150215_play area04.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150216_lobby_cam_01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150216_lobby_cam_02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150216_preschool01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150216_preschool02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150312_toddler02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150312_toddler03.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150319_toddler washroom 01_02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150319_toddler washroom 02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150319_toddler washroom 03.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150401_exterior2.2.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150405_preschool.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150405_toddler01.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150408_exterior4.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150408_main gate_entry.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150408_main gate_exit.0500.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150409_ACTIVITY02 .RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150409_ACTIVITY03 .RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150409_ACTIVITY04 .RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150413_class_A_cam_01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150413_class_A_cam_02.RGB_color.000002.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150430_lab 01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150430_lab 02.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150430_library 01.RGB_color.0000.jpg",
+                      "/projects/interior/04- INSTITUTE INTERIOR/01- AURORA INT SCHOOL/150430_library 02.RGB_color.0000.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Aurora International School\nProject Type : Educational\nClient : Aurora International School \nProject  Details : Interior Design & Fit-out Works \nLocation: NE (L)5A Road 83, Dhaka 1212"
+              }
+          },
+          {
+              "id": 21,
+              "category": "CLUB  BAR BANQUET",
+              "image": "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (1).jpeg",
+              "title": "RAOWA CLUB Proposal",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (1).jpeg",
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (2).jpeg",
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (3).jpeg",
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (4).jpeg",
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/01 (5).jpeg",
+                      "/projects/interior/05- CLUB & BAR BANQUET/01- RAOWA CLUB Proposal/drawings.jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Raowa Club Proposal\nProject Type : Club & BAR Interior\nClient : Raowa Club \nProject  Details : Interior Design & Fit-out Works\nLocation: Mohakhali, Dhaka"
+              }
+          },
+          {
+              "id": 22,
+              "category": "CLUB  BAR BANQUET",
+              "image": "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/DSCN5478.JPG",
+              "title": "H2o Bar Lakeshore",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/DSCN5478.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/DSCN5482.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/DSCN5483.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 029.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 035.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 055.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 060.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 075.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 079.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 1 081.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore 158.JPG",
+                      "/projects/interior/05- CLUB & BAR BANQUET/02- H2o Bar Lakeshore/Lakeshore-176.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For H2O Bar\nProject Type : Interior\nClient : Lakeshore Hotel\nProject  Details : Interior Design & Fit-out Works \nLocation: Gulshan-2 Dhaka"
+              }
+          },
+          {
+              "id": 23,
+              "category": "CLUB  BAR BANQUET",
+              "image": "/projects/interior/05- CLUB & BAR BANQUET/03- Lakeshore Banquet Hall/01.png",
+              "title": "Lakeshore Banquet Hall",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/05- CLUB & BAR BANQUET/03- Lakeshore Banquet Hall/01.png",
+                      "/projects/interior/05- CLUB & BAR BANQUET/03- Lakeshore Banquet Hall/02.png",
+                      "/projects/interior/05- CLUB & BAR BANQUET/03- Lakeshore Banquet Hall/03.png",
+                      "/projects/interior/05- CLUB & BAR BANQUET/03- Lakeshore Banquet Hall/04.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Lakeshore Banquet Hall\nProject Type : Interior\nClient :  Lakeshore Hotel\nProject Details : Interior Design & Fit Out Work\nLocation: , Road-41, Gulshan-2, Dhaka"
+              }
+          },
+          {
+              "id": 24,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
+              "title": "Lilunm Nahar",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (1).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (3).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (4).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (5).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (6).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (7).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (8).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (9).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (1).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (2).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (3).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (4).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (5).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (6).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (7).jpeg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (8).jpeg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Lilun Nahar \nProject Type : Interior\nClient : Lilun Nahar\nProject  Details : Interior Design & Fit-out Works \nLocation: Zigatola, Dhaka"
+              }
+          },
+          {
+              "id": 25,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
+              "title": "BDDL Housing MD House",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-3.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-4.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Entry.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room-2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: : Interior Design Works For BDDL Housing MD House. \nProject Type : Interior\nClient : BDDL Housing Limited\nProject  Details : Interior Design & Fit-out Works \nLocation: Lalmatia, Mohammandpur"
+              }
+          },
+          {
+              "id": 26,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
+              "title": "Westlawn Level-5",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child3.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child5.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer10000.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0000.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0002.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0003.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0000.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0001.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0002.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0003.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0004.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0005.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0006.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0007.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0008.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
+              }
+          },
+          {
+              "id": 27,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
+              "title": "Westlawn Level-9",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_02.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 02.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option B_cam 01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (1).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (2).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
+              }
+          },
+          {
+              "id": 28,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
+              "title": "Mr Kaszim",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/C.BED_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/DINING_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/F.LIVING_01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/G.BED_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_01.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works for  Mr Kaszim \nProject Type : interior\nClient : Mr. Kaszim\nProject  Details : Interior Design & Fit-out Works \nLocation: Shanti Nagar, Dhaka"
+              }
+          },
+          {
+              "id": 29,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
+              "title": "Mr Mostofa Kamal",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Dining Room_02.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Kitchen_00.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-10 (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-20 (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_010.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_02.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_02.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (1).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (3).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (4).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (5).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (6).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (7).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (8).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Mr Mostofa Kamal \nProject Type : Interior\nClient : Mr. Mostofa Kamal\nProject  Details : Interior Design & Fit-out Works \nLocation: Mirpur, Dhaka"
+              }
+          },
+          {
+              "id": 30,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
+              "title": "Snigdha Monim",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (1).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (10).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (11).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (12).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (13).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (14).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (15).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (16).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (17).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (3).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (4).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (5).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (6).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (7).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (8).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (9).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (1).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (10).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (11).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (4).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (5).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (6).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (7).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (8).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (9).jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works  For Ms. Snigdha Monim\nProject Type : Interior\nClient : Ms. Snigdha Monim\nProject  Details : Interior Design & Fit-out Works.\nLocation: Gulshan-1, Dhaka"
+              }
+          },
+          {
+              "id": 31,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
+              "title": "Nasir Basila",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  CHILD  BED.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor family living room.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Bar Counter.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Entry.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen (2).jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Lobby.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 1.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 2.jpg",
+                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 3.jpg"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Design Works For Nasir Basila\nProject Type : Interior\nClient : Mr. Nasir\nProject  Details : Interior Design & Fit-out Works\nLocation: Basila, Dhaka"
+              }
+          },
+          {
+              "id": 32,
+              "category": "RESIDENCE INTERIOR",
+              "image": "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
+              "title": "Nasir Uddin",
+              "description": "",
+              "details": {
+                  "images": [
+                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
+                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/02.png",
+                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/03.png"
+                  ],
+                  "drawings": [],
+                  "videoUrl": "",
+                  "description": "",
+                  "info": "Project Name: Interior Fit-out Works For Mr. Nasir Uddin\nProject Type : Interior\nClient : Mr. Nasir Uddin\nProject  Details : Interior Design & Fit-out Works \nLocation: Basila, Garden City, Dhaka"
+              }
+          }
+      ]
+  },
+
+
+  {
+    "slug": "construction",
+    "title": "CONSTRUCTION",
+    "description": "",
+    "imageUrl": "/projects/planning.jpg",
+    "projects": []
+  },
+
+  {
+    "slug": "compliance-approval",
+    "title": "COMPLIANCE APPROVAL",
+    "description": "",
+    "imageUrl": "/projects/public_space.jpg",
+    "projects": []
+  }
+
+]

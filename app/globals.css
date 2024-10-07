@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+@media (max-width: 768px) { /* Adjust the max-width value as needed */
+  .your-image-class {
+    width: 80%; /* Adjust width as needed for mobile devices */
+    max-width: none; /* Remove max-width constraint for smaller screens */
+  }
+}
+
+.categories {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.catBtn {
+  color: var(--color-gray-800);
+  text-transform: capitalize;
+  transition: var(--transition);
+}
+
+.btn.catBtn:hover {
+  transform: translateY(0);
+}
+
+@keyframes identifier {
+  to {
+      opacity: 1;
+  }
+}
+
+
+
+.image {
+  width: 100%;
+  height: fit-content;
+  min-height: 7rem;
+  max-height: 15rem;
+  background: var(--color-light);
+  border-radius: var(--border-radius-2);
+  overflow: hidden
+}
+
+.content {
+  padding: 1.5rem;
+}
+
+
+.Cta {
+  display: flex;
+  gap: 1rem;
+}
+
+.btn {
+  display: inline-block;
+  background: var(--color-gray-200);
+}
+
+.btn.primary {
+  background: var(--color-primary);
+  color: white;
+}
+
+
+@media screen and (max-width: 600px) {
+  .categories {
+      gap: 0.6rem;
+  }
+
+  .btn.catBtn {
+      padding: 0.7rem 0.8rem; 
+  }
+
+  
+}

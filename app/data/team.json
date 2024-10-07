@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "name": "Ar. Md. Baki Billah",
+      "role": "Architect",
+      "qualification": "B.Arch",
+      "description": "An Architect",
+      "image": "/about/team/Ar. Md. Baki Billah.png",
+      "resumeLink": "/resumes/bakiBillah.pdf"
+    },
+    {
+      "id": 2,
+      "name": "Bimal Kumar Sarkar",
+      "role": "Construction Head",
+      "qualification": "M.B.A, B.Sc.Eng.(Civil)",
+      "description": "Expert in creating intuitive user experiences",
+      "image": "/about/team/Bimal Kumar Sarkar.png",
+      "resumeLink": "/resumes/janeSmith.pdf"
+    },
+    {
+      "id": 3,
+      "name": "Nayan Das",
+      "role": "Structural Engineer",
+      "qualification": "B.Sc.Eng.(Civil)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Nayan Das.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Anisur Rahman Alal",
+      "role": "3d Visualizer",
+      "qualification": "B.Sc.Eng.(Civil)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Anisur Rahman Alal.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    },
+    
+    
+    
+    {
+      "id": 5,
+      "name": "Kazi Md Abdul hadid",
+      "role": "Project coordinator",
+      "qualification": "B.Sc Eng (Civil)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Kazi Md Abdul hadid.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    },
+    {
+      "id": 6,
+      "name": "Milon Sarkar",
+      "role": "Sr. executive (Drafting)",
+      "qualification": "Dip. in Eng. (Architecture)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Milon Sarkar.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    },
+    
+    {
+      "id": 7,
+      "name": "Kishor Das",
+      "role": "Project Engineer",
+      "qualification": "Dip. in Eng. (Civil)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Kishor Das.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    },
+
+    {
+      "id": 8,
+      "name": "Md Saiful Islam",
+      "role": "Accountant",
+      "qualification": "Dip. in Eng. (Civil)",
+      "description": "Skilled in managing complex architectural projects",
+      "image": "/about/team/Md Saiful Islam.png",
+      "resumeLink": "/resumes/aliceJohnson.pdf"
+    }
+  ]
+  

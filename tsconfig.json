@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es2015", // Set target to es2015 or later
+    "lib": ["dom", "dom.iterable", "esnext"], // Ensure ES2015 or later is included
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext", // Keep module as esnext
+    "moduleResolution": "bundler", // Keep moduleResolution as bundler
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "downlevelIteration": true, // Enable downlevel iteration support
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "exclude": ["node_modules"]
+}
