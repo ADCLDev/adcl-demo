@@ -164,7 +164,6 @@ The long-term relationships we’ve developed with our clients are critical to A
     <div className="absolute inset-0 flex flex-col justify-end p-4 text-white bg-black/75 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <h3 className="text-lg font-bold">{partner.name}</h3>
       <p className="mt-1 text-sm">{partner.designation}</p>
-      <p className="mt-1 text-sm">{partner.role}</p>
       <p className="mt-1 text-xs">{partner.qualification}</p>
       <div className="flex justify-center gap-4 mt-4">
         {partner.social.facebook && (
