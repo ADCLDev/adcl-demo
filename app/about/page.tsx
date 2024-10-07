@@ -1,5 +1,5 @@
 "use client"
-// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
+
 
 import React from 'react'
 import { Navigation } from '../components/nav'
@@ -143,60 +143,62 @@ The long-term relationships we’ve developed with our clients are critical to A
         </section>
         <div className="flex flex-wrap justify-center gap-6">
           {partners.map(partner => (
+            
             <motion.div
-              key={partner.id}
-              className="relative overflow-hidden rounded-xl shadow-lg group w-full sm:w-72 md:w-60 lg:w-72 xl:w-80"
-              whileHover={{
-                scale: 1.05,
-                rotateX: 10,
-                rotateY: -10,
-                transition: { duration: 0.2 },
-              }}
-              style={{
-                backgroundImage: `url(${partner.image})`,
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-                height: "350px",
-              }}
-            >
-              <div className="absolute inset-0 flex flex-col justify-end p-4 text-white bg-black/75 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                <h3 className="text-lg font-bold">{partner.name}</h3>
-                <p className="mt-1 text-sm">{partner.designation}</p>
-                <p className="mt-1 text-sm">{partner.role}</p>
-                <p className="mt-1 text-xs">{partner.qualification}</p>
-                <div className="flex justify-center gap-4 mt-4">
-                  {partner.social.facebook && (
-                    <Link href={partner.social.facebook} passHref target="_blank" rel="noopener noreferrer">
-                      <span className="text-blue-600 hover:text-blue-800 transition-colors">
-                        <FaFacebook className="text-2xl" />
-                      </span>
-                    </Link>
-                  )}
-                  {partner.social.mobile && (
-                    <Link href={`tel:+${partner.social.mobile}`} passHref target="_blank" rel="noopener noreferrer">
-                      <span className="text-blue-400 hover:text-blue-600 transition-colors">
-                        <FaPhone className="text-2xl" />
-                      </span>
-                    </Link>
-                  )}
-                  {partner.social.email && (
-                    <Link href={`mailto:${partner.social.email}`} passHref>
-                      <span className="text-red-500 hover:text-red-700 transition-colors">
-                        <FaEnvelope className="text-2xl" />
-                      </span>
-                    </Link>
-                  )}
-                  {partner.social.whatsapp && (
-                    <Link href={`https://wa.me/${partner.social.whatsapp}`} passHref target="_blank" rel="noopener noreferrer">
-                      <span className="text-green-500 hover:text-green-700 transition-colors">
-                        <FaWhatsapp className="text-2xl" />
-                      </span>
-                    </Link>
-                  )}
-                </div>
-                
-              </div>
+    key={partner.id}
+    className="relative overflow-hidden rounded-xl shadow-lg group w-full sm:w-72 md:w-60 lg:w-72 xl:w-80 h-[350px]"
+    whileHover={{
+      scale: 1.05,
+      rotateX: 10,
+      rotateY: -10,
+      transition: { duration: 0.2 },
+    }}
+  >
+    <div className="absolute inset-0 bg-gray-200">
+      <img
+        src={partner.image}
+        alt={partner.name}
+        className="w-full h-full object-contain"
+      />
+    </div>
+    <div className="absolute inset-0 flex flex-col justify-end p-4 text-white bg-black/75 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+      <h3 className="text-lg font-bold">{partner.name}</h3>
+      <p className="mt-1 text-sm">{partner.designation}</p>
+      <p className="mt-1 text-sm">{partner.role}</p>
+      <p className="mt-1 text-xs">{partner.qualification}</p>
+      <div className="flex justify-center gap-4 mt-4">
+        {partner.social.facebook && (
+          <Link href={partner.social.facebook} passHref target="_blank" rel="noopener noreferrer">
+            <span className="text-blue-600 hover:text-blue-800 transition-colors">
+              <FaFacebook className="text-2xl" />
+            </span>
+          </Link>
+        )}
+        {partner.social.mobile && (
+          <Link href={`tel:+${partner.social.mobile}`} passHref target="_blank" rel="noopener noreferrer">
+            <span className="text-blue-400 hover:text-blue-600 transition-colors">
+              <FaPhone className="text-2xl" />
+            </span>
+          </Link>
+        )}
+        {partner.social.email && (
+          <Link href={`mailto:${partner.social.email}`} passHref>
+            <span className="text-red-500 hover:text-red-700 transition-colors">
+              <FaEnvelope className="text-2xl" />
+            </span>
+          </Link>
+        )}
+        {partner.social.whatsapp && (
+          <Link href={`https://wa.me/${partner.social.whatsapp}`} passHref target="_blank" rel="noopener noreferrer">
+            <span className="text-green-500 hover:text-green-700 transition-colors">
+              <FaWhatsapp className="text-2xl" />
+            </span>
+          </Link>
+        )}
+      </div>
+    </div>
             </motion.div>
+
           ))}
         </div>
           </section>
