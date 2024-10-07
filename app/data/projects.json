@@ -3,7 +3,7 @@
       "slug": "architecture",
       "title": "ARCHITECTURE",
       "description": "",
-      "imageUrl": "/projects/architecture/architecture.svg",
+      "imageUrl": "/projects/architecture/MAIN.png",
       "projects": [
         {
             "id": 1,
@@ -381,15 +381,15 @@
         {
             "id": 20,
             "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/01.png",
+            "image": "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/01.jpg",
             "title": "Nasir House Basila",
             "description": "",
             "details": {
                 "images": [
-                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/02.png",
-                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/03.png",
-                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/04.png",
-                    "/projects/architecture/03- RESIDENTIAL/20- Nasir House Basila/01.jpg"
+                    "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/03.png",
+                    "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/04.png",
+                    "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/01.jpg"
                 ],
                 "drawings": [],
                 "videoUrl": "",
@@ -479,26 +479,7 @@
                   "info": "Project Name:  Green Villa\nProject Type : Commercial\nClient : Madina Developments Limited\nProject  Details : 1B+G+9\nLand Area :  10 Katha\nLocation: Green Road, Dhanmondi, Dhaka"
               }
           },
-          {
-            "id": 25,
-            "category": "COMMERCIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
-            "title": "kanak chapa",
-            "description": "",
-            "details": {
-                "images": [
-                    
-                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
-                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.02 PM.jpeg",
-                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.13 PM.jpeg",
-                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.23 PM.jpeg"
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name:  Kanok Chapa\nProject Type : Residential\nClient : Mrs. Kanok Chapa\nProject  Details : G+4\nLand Area : 4 Katha\nLocation: Bashundara, L-Block, Dhaka"
-            }
-        },
+          
           {
               "id": 26,
               "category": "MIXED USED",
@@ -1008,8 +989,273 @@
       "slug": "interior",
       "title": "INTERIOR",
       "description": "",
-      "imageUrl": "/projects/interior/interior.jpg",
+      "imageUrl": "/projects/interior/main.png",
       "projects": [
+        {
+            "id": 24,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
+            "title": "Lilunm Nahar",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (1).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (3).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (4).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (5).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (6).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (7).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (8).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (9).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (1).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (2).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (3).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (4).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (5).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (6).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (7).jpeg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (8).jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works For Lilun Nahar \nProject Type : Interior\nClient : Lilun Nahar\nProject  Details : Interior Design & Fit-out Works \nLocation: Zigatola, Dhaka"
+            }
+        },
+        {
+            "id": 25,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
+            "title": "BDDL Housing MD House",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-3.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-4.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Entry.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room-2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: : Interior Design Works For BDDL Housing MD House. \nProject Type : Interior\nClient : BDDL Housing Limited\nProject  Details : Interior Design & Fit-out Works \nLocation: Lalmatia, Mohammandpur"
+            }
+        },
+        {
+            "id": 26,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
+            "title": "Westlawn Level-5",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child3.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child5.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer10000.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0000.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0002.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0003.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0000.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0001.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0002.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0003.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0004.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0005.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0006.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0007.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0008.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
+            }
+        },
+        {
+            "id": 27,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
+            "title": "Westlawn Level-9",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_02.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 02.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option B_cam 01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (1).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (2).jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
+            }
+        },
+        {
+            "id": 28,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
+            "title": "Mr Kaszim",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/C.BED_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/DINING_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/F.LIVING_01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/G.BED_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_01.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works for  Mr Kaszim \nProject Type : interior\nClient : Mr. Kaszim\nProject  Details : Interior Design & Fit-out Works \nLocation: Shanti Nagar, Dhaka"
+            }
+        },
+        {
+            "id": 29,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
+            "title": "Mr Mostofa Kamal",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Dining Room_02.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Kitchen_00.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-10 (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-20 (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_010.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_02.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_02.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (1).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (3).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (4).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (5).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (6).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (7).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (8).jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works For Mr Mostofa Kamal \nProject Type : Interior\nClient : Mr. Mostofa Kamal\nProject  Details : Interior Design & Fit-out Works \nLocation: Mirpur, Dhaka"
+            }
+        },
+        {
+            "id": 30,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
+            "title": "Snigdha Monim",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (1).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (10).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (11).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (12).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (13).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (14).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (15).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (16).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (17).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (3).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (4).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (5).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (6).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (7).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (8).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (9).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (1).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (10).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (11).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (4).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (5).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (6).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (7).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (8).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (9).jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works  For Ms. Snigdha Monim\nProject Type : Interior\nClient : Ms. Snigdha Monim\nProject  Details : Interior Design & Fit-out Works.\nLocation: Gulshan-1, Dhaka"
+            }
+        },
+        {
+            "id": 31,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
+            "title": "Nasir Basila",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  CHILD  BED.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor family living room.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Bar Counter.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Entry.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen (2).jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Lobby.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 1.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 2.jpg",
+                    "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 3.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Design Works For Nasir Basila\nProject Type : Interior\nClient : Mr. Nasir\nProject  Details : Interior Design & Fit-out Works\nLocation: Basila, Dhaka"
+            }
+        },
+        {
+            "id": 32,
+            "category": "RESIDENCE INTERIOR",
+            "image": "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
+            "title": "Nasir Uddin",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
+                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/02.png",
+                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/03.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Interior Fit-out Works For Mr. Nasir Uddin\nProject Type : Interior\nClient : Mr. Nasir Uddin\nProject  Details : Interior Design & Fit-out Works \nLocation: Basila, Garden City, Dhaka"
+            }
+        },
+        
           {
               "id": 1,
               "category": "OFFICE INTERIOR",
@@ -1147,7 +1393,7 @@
               "id": 5,
               "category": "OFFICE INTERIOR",
               "image": "/projects/interior/01- OFFICE INTERIOR/06- T.K Bahan Level 4 Kawran Bazar/Director Room-Opt-1.jpg",
-              "title": "TK Bahan Level 4 Kawran Bazar",
+              "title": "TK Bhaban Level 4 Kawran Bazar",
               "description": "",
               "details": {
                   "images": [
@@ -1623,271 +1869,8 @@
                   "description": "",
                   "info": "Project Name: Interior Design Works For Lakeshore Banquet Hall\nProject Type : Interior\nClient :  Lakeshore Hotel\nProject Details : Interior Design & Fit Out Work\nLocation: , Road-41, Gulshan-2, Dhaka"
               }
-          },
-          {
-              "id": 24,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
-              "title": "Lilunm Nahar",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/001.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (1).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (3).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (4).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (5).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (6).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (7).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (8).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/01 (9).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (1).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (2).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (3).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (4).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (5).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (6).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (7).jpeg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/01- Lilunm Nahar/02 (8).jpeg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works For Lilun Nahar \nProject Type : Interior\nClient : Lilun Nahar\nProject  Details : Interior Design & Fit-out Works \nLocation: Zigatola, Dhaka"
-              }
-          },
-          {
-              "id": 25,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
-              "title": "BDDL Housing MD House",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-3.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room-4.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Dining Room.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Entry.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room-2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/02- BDDL Housing MD House/Living Room.jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: : Interior Design Works For BDDL Housing MD House. \nProject Type : Interior\nClient : BDDL Housing Limited\nProject  Details : Interior Design & Fit-out Works \nLocation: Lalmatia, Mohammandpur"
-              }
-          },
-          {
-              "id": 26,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
-              "title": "Westlawn Level-5",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child3.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/child5.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer10000.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0000.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0002.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/Foyer1d0003.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0000.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0001.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0002.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0003.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0004.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0005.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0006.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0007.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/03- Westlawn Level-5/LIVING DINING0008.jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
-              }
-          },
-          {
-              "id": 27,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
-              "title": "Westlawn Level-9",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_bath_02.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option A_cam 02.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/150101_DETAIL_option B_cam 01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (1).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/04- Westlawn Level-9/Lift lobby- typical (2).jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works For Westlawn Interior\nProject Type : Interior\nClient : Mr. Aslam\nProject  Details : Interior Design & Fit Out Works\nLocation: Uttara , Sector-5 ,Dhaka."
-              }
-          },
-          {
-              "id": 28,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
-              "title": "Mr Kaszim",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/C.BED_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/DINING_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/F.LIVING_01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/G.BED_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/LIVING_01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/05- Mr Kaszim/M.BED_01.jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works for  Mr Kaszim \nProject Type : interior\nClient : Mr. Kaszim\nProject  Details : Interior Design & Fit-out Works \nLocation: Shanti Nagar, Dhaka"
-              }
-          },
-          {
-              "id": 29,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
-              "title": "Mr Mostofa Kamal",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Bed Room-2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Dining Room_02.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Kitchen_00.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-10 (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Living Room-20 (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_010.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Lobby_02.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/M.Bed Room-2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/Reading Room_02.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (1).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (3).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (4).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (5).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (6).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (7).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/06- Mr Mostofa Kamal/z1 (8).jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works For Mr Mostofa Kamal \nProject Type : Interior\nClient : Mr. Mostofa Kamal\nProject  Details : Interior Design & Fit-out Works \nLocation: Mirpur, Dhaka"
-              }
-          },
-          {
-              "id": 30,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
-              "title": "Snigdha Monim",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/01.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (1).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (10).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (11).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (12).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (13).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (14).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (15).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (16).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (17).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (3).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (4).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (5).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (6).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (7).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (8).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/Navana gulshan 2 (9).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (1).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (10).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (11).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (4).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (5).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (6).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (7).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (8).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/07- Snigdha Monim/z1 (9).jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works  For Ms. Snigdha Monim\nProject Type : Interior\nClient : Ms. Snigdha Monim\nProject  Details : Interior Design & Fit-out Works.\nLocation: Gulshan-1, Dhaka"
-              }
-          },
-          {
-              "id": 31,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
-              "title": "Nasir Basila",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  BOY'S  BED.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor  CHILD  BED.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/2nd Floor family living room.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Dining Room -2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Girls Bed 2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Bar Counter.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Dining 2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Entry.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Ground floor Living 2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen (2).jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Kitchen.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Lobby.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 1.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 2.jpg",
-                      "/projects/interior/06- RESIDENCE INTERIOR/08- Nasir Basila/Master Bed Room 3.jpg"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Design Works For Nasir Basila\nProject Type : Interior\nClient : Mr. Nasir\nProject  Details : Interior Design & Fit-out Works\nLocation: Basila, Dhaka"
-              }
-          },
-          {
-              "id": 32,
-              "category": "RESIDENCE INTERIOR",
-              "image": "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
-              "title": "Nasir Uddin",
-              "description": "",
-              "details": {
-                  "images": [
-                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
-                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/02.png",
-                      "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/03.png"
-                  ],
-                  "drawings": [],
-                  "videoUrl": "",
-                  "description": "",
-                  "info": "Project Name: Interior Fit-out Works For Mr. Nasir Uddin\nProject Type : Interior\nClient : Mr. Nasir Uddin\nProject  Details : Interior Design & Fit-out Works \nLocation: Basila, Garden City, Dhaka"
-              }
           }
+          
       ]
   },
 
@@ -1896,16 +1879,39 @@
     "slug": "construction",
     "title": "CONSTRUCTION",
     "description": "",
-    "imageUrl": "/projects/planning.jpg",
-    "projects": []
+    "imageUrl": "/projects/CONSTRUCTION/main/cover.png",
+    "projects": [
+        {
+            "id": 13,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+            "title": "kanak chapa",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.02 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.13 PM.jpeg",
+                    "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/WhatsApp Image 2024-09-01 at 2.16.23 PM.jpeg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Kanok Chapa\nProject Type : Residential\nClient : Mrs. Kanok Chapa\nProject  Details : G+4\nLand Area : 4 Katha\nLocation: Bashundara, L-Block, Dhaka"
+            }
+        }
+    ]
   },
 
   {
     "slug": "compliance-approval",
     "title": "COMPLIANCE APPROVAL",
     "description": "",
-    "imageUrl": "/projects/public_space.jpg",
-    "projects": []
+    "imageUrl": "/projects/COMPLIANCEAPPROVAL/main.png",
+    "projects": [
+       
+    ]
   }
 
 ]

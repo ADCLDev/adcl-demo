@@ -12,6 +12,8 @@ import { motion, useMotionTemplate, useMotionValue, useSpring } from 'framer-mot
 import Footer from '../components/Footer'
 import partners from '../data/partners.json'
 import teamMembers from '../data/team.json'
+import SectionArticle from '../components/SectionArticle'
+import SectionArticle2 from '../components/SectionArticle2'
 
 
   const Card: React.FC<{ children: React.ReactNode }> = ({ children }) => {
@@ -48,99 +50,14 @@ import teamMembers from '../data/team.json'
     );
   };
   
-  const SectionArticle: React.FC<{ title: string; content: string }> = ({ title, content }) => {
-    const mouseX = useSpring(0, { stiffness: 500, damping: 100 });
-    const mouseY = useSpring(0, { stiffness: 500, damping: 100 });
   
-    function onMouseMove({ currentTarget, clientX, clientY }: React.MouseEvent<HTMLElement>) {
-      const { left, top } = currentTarget.getBoundingClientRect();
-      mouseX.set(clientX - left);
-      mouseY.set(clientY - top);
-    }
-  
-    const maskImage = useMotionTemplate`radial-gradient(240px at ${mouseX}px ${mouseY}px, rgba(255, 255, 255, 0.2), transparent)`;
-    const style = { maskImage, WebkitMaskImage: maskImage };
-  
-    return (
-      <motion.article
-        onMouseMove={onMouseMove}
-        className="relative p-6 bg-gradient-to-tl from-slate-900 via-zinc-800/80 to-black shadow-lg rounded-lg overflow-hidden group"
-        whileHover={{ scale: 1.05 }}
-        transition={{ duration: 0.3 }}
-      >
-        <div className="pointer-events-none absolute inset-0 z-0 transition duration-1000 [mask-image:linear-gradient(black,transparent)]" />
-        <motion.div
-          className="absolute inset-0 z-10 bg-gradient-to-br opacity-100 from-zinc-100/10 via-transparent to-transparent transition duration-1000 group-hover:opacity-50"
-          style={style}
-        />
-        <motion.div
-          className="absolute inset-0 z-10 opacity-0 mix-blend-overlay transition duration-1000 group-hover:opacity-100"
-          style={style}
-        />
-        <h2 className="text-xl font-semibold mb-4 text-[#FFD700] group-hover:text-white">{title}</h2>
-        <p className="text-white">{content}</p>
-      </motion.article>
-    );
-  };
 
   interface SectionArticleProps {
     title: string;
     content: string[];
   }
 
-  const SectionArticle2: React.FC<SectionArticleProps> = ({ title, content }) => {
-    const mouseX = useSpring(0, { stiffness: 500, damping: 100 });
-    const mouseY = useSpring(0, { stiffness: 500, damping: 100 });
   
-    function onMouseMove({ currentTarget, clientX, clientY }: React.MouseEvent<HTMLElement>) {
-      const { left, top } = currentTarget.getBoundingClientRect();
-      mouseX.set(clientX - left);
-      mouseY.set(clientY - top);
-    }
-  
-    const maskImage = useMotionTemplate`radial-gradient(240px at ${mouseX}px ${mouseY}px, rgba(255, 255, 255, 0.2), transparent)`;
-    const style = { maskImage, WebkitMaskImage: maskImage };
-  
-    return (
-      <motion.article
-        onMouseMove={onMouseMove}
-        className="relative p-6 bg-gradient-to-tl from-slate-900 via-zinc-800/80 to-black shadow-lg rounded-lg overflow-hidden group"
-        whileHover={{ scale: 1.05 }}
-        transition={{ duration: 0.3 }}
-      >
-        <div className="pointer-events-none absolute inset-0 z-0 transition duration-1000 [mask-image:linear-gradient(black,transparent)]" />
-        <motion.div
-          className="absolute inset-0 z-10 bg-gradient-to-br opacity-100 from-zinc-100/10 via-transparent to-transparent transition duration-1000 group-hover:opacity-50"
-          style={style}
-        />
-        <motion.div
-          className="absolute inset-0 z-10 opacity-0 mix-blend-overlay transition duration-1000 group-hover:opacity-100"
-          style={style}
-        />
-        <h2 className="text-xl font-semibold mb-4 text-[#FFD700] group-hover:text-white">{title}</h2>
-        <ul className="text-white space-y-2">
-          {content.map((item: string, index: number) => (
-            <motion.li
-              key={index}
-              initial={{ opacity: 0, x: -20 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ duration: 0.5, delay: index * 0.1 }}
-              className="flex items-center"
-            >
-              <motion.span
-                className="w-2 h-2 bg-[#FFD700] rounded-full mr-2"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ duration: 0.3, delay: index * 0.1 + 0.2 }}
-              />
-              {item}
-            </motion.li>
-          ))}
-        </ul>
-      </motion.article>
-    );
-  };
-
 const page = () => {
     const pathname = usePathname();
 
@@ -288,7 +205,6 @@ The long-term relationships we’ve developed with our clients are critical to A
           <section className="my-12">
             <section className="text-center my-12">
               <h1 className="text-4xl font-bold bg-black border-4 border-black rounded-lg text-white p-4 inline-block">Our Team</h1>
-              <p className="mb-6 mt-4 px-6 text-center text-3xl ">Meet the talented individuals who make our company great.</p>
             </section>
             <div className="grid gap-6 md:grid-cols-3">
               {teamMembers.map(member => (
@@ -314,12 +230,7 @@ The long-term relationships we’ve developed with our clients are critical to A
             </div>
           </section>
 
-          {/* Download  Button */}
-          {/* <section className="my-12 text-center">
-            <Link href="/ADCL Portfolio A4.pdf" className="bg-black text-[#FFD700] py-3 px-6 rounded-lg text-lg hover:bg-blue-600 transition-colors">
-              Download Company Profile
-            </Link>
-          </section> */}
+          
 
           {/* Address and Opening Hours */}
           <section className="my-12 text-center">

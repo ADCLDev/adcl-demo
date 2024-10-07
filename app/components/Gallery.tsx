@@ -51,7 +51,7 @@ const Gallery: React.FC = () => {
       setDisplayedItems(prevItems => [...prevItems, ...newItems]);
       setAvailableItems(prevAvailable => prevAvailable.slice(itemsPerLoad));
       setLoading(false);
-    }, 1000);
+    }, 100); // Reduced timeout for faster loading
   };
 
   useEffect(() => {
@@ -63,20 +63,23 @@ const Gallery: React.FC = () => {
   return (
     <div className="container mx-auto px-4">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {displayedItems.map((item) => (
+        {displayedItems.map((item, index) => (
           <Link href={`/projects/${item.category.toLowerCase()}/${item.id}`} key={item.id}>
             <motion.div
               className="relative group overflow-hidden rounded-lg shadow-lg h-64"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
+              transition={{ duration: 0.3, delay: index * 0.1 }}
             >
               <Image
                 src={item.src}
                 alt={item.title}
-                layout="fill"
-                objectFit="cover"
-                className="w-full h-full filter grayscale transition-all duration-300 group-hover:filter-none"
+                fill
+                sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                className="object-cover w-full h-full transition-all duration-300 filter grayscale group-hover:filter-none"
+                priority={index < 8} // Prioritize loading for the first 8 images
+                loading={index < 8 ? 'eager' : 'lazy'}
+                quality={75} // Adjust quality for performance vs. visual trade-off
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 text-white opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-4">
                 <h3 className="text-lg font-semibold uppercase">{item.title}</h3>
