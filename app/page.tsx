@@ -87,7 +87,7 @@ export default function Home() {
              <Link
              key={item.href}
              href={item.href}
-             className="p-4 rounded-md text-2xl bg-transparent shadow-l md:text-3xl duration-500 text-black hover:bg-black hover:text-white hover:border-[#FFD700] hover:shadow-md hover:shadow-zinc-800 hover:rounded-xl uppercase"
+             className="p-4 rounded-md text-xl xl:text-4xl bg-transparent shadow-l md:text-3xl duration-500 text-black hover:bg-black hover:text-white hover:border-[#FFD700] hover:shadow-md hover:shadow-zinc-800 hover:rounded-xl uppercase"
            >
              {item.name}
            </Link>

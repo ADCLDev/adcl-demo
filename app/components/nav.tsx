@@ -17,7 +17,7 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
   useEffect(() => {
     if (!ref.current) return;
     const observer = new IntersectionObserver(([entry]) =>
-      setIntersecting(entry.isIntersecting),
+      setIntersecting(entry.isIntersecting)
     );
 
     observer.observe(ref.current);
@@ -42,37 +42,58 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
     open: { opacity: 1, height: "auto" },
   };
 
-  const isProjectPage = pathName?.startsWith('/projects/') ?? false;
-  const isProjectDetailPage = isProjectPage && (pathName?.split('/').length ?? 0) > 3;
+  const isProjectSubPage = pathName?.startsWith('/projects/') ?? false;
 
-  const renderNavItems = () => (
-    <>
-      {pathName !== '/projects' && (
-        <Link
-          href="/projects"
-          className="block py-2 px-4 text-3xl text-black hover:text-white hover:bg-zinc-800 hover:rounded-xl uppercase"
-        >
-          Projects
-        </Link>
-      )}
-      {pathName !== '/about' && (
-        <Link
-          href="/about"
-          className="block py-2 px-4 text-3xl hover:text-white hover:bg-zinc-800 hover:rounded-xl"
-        >
-          About
-        </Link>
-      )}
-      {pathName !== '/contact' && (
-        <Link
-          href="/contact"
-          className="block py-2 px-4 text-3xl hover:text-white hover:bg-zinc-800 hover:rounded-xl uppercase"
-        >
-          Contact
-        </Link>
-      )}
-    </>
-  );
+  const renderNavItems = (isMobile: boolean) => {
+    const baseStyle = "block py-2 px-4 text-3xl text-black hover:text-white hover:bg-zinc-800 hover:rounded-xl uppercase";
+    const linkStyle = isMobile ? `${baseStyle} bg-slate-300` : baseStyle;
+
+    if (pathName === '/about') {
+      return (
+        <>
+          <Link href="/projects" className={linkStyle}>Projects</Link>
+          <Link href="/contact" className={linkStyle}>Contact</Link>
+        </>
+      );
+    }
+
+    if (pathName === '/contact') {
+      return (
+        <>
+          <Link href="/projects" className={linkStyle}>Projects</Link>
+          <Link href="/about" className={linkStyle}>About</Link>
+        </>
+      );
+    }
+
+    if (pathName === '/projects') {
+      return (
+        <>
+          <Link href="/about" className={linkStyle}>About</Link>
+          <Link href="/contact" className={linkStyle}>Contact</Link>
+        </>
+      );
+    }
+
+    if (isProjectSubPage) {
+      return (
+        <>
+          <Link href="/projects" className={linkStyle}>Projects</Link>
+          <Link href="/about" className={linkStyle}>About</Link>
+          <Link href="/contact" className={linkStyle}>Contact</Link>
+        </>
+      );
+    }
+
+    // Default navigation items (e.g., for home page or any other unspecified page)
+    return (
+      <>
+        <Link href="/projects" className={linkStyle}>Projects</Link>
+        <Link href="/contact" className={linkStyle}>Contact</Link>
+        <Link href="/about" className={linkStyle}>About</Link>
+      </>
+    );
+  };
 
   return (
     <header ref={ref}>
@@ -106,13 +127,13 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
 
             {/* Desktop Navigation */}
             <nav className="hidden md:flex space-x-8">
-              {renderNavItems()}
+              {renderNavItems(false)}
             </nav>
 
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="md:hidden text-black hover:text-[#FFD700] focus:outline-none"
+              className="md:hidden text-black hover:text-yellow-400 focus:outline-none"
             >
               {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
@@ -127,9 +148,9 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
                 exit="closed"
                 variants={menuVariants}
                 transition={{ duration: 0.3 }}
-                className="md:hidden bg-black text-white overflow-hidden"
+                className="md:hidden bg-slate-300 text-black overflow-hidden"
               >
-                {renderNavItems()}
+                {renderNavItems(true)}
               </motion.nav>
             )}
           </AnimatePresence>

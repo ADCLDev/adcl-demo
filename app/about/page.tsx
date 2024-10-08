@@ -154,15 +154,15 @@ The long-term relationships we’ve developed with our clients are critical to A
       transition: { duration: 0.2 },
     }}
   >
-    <div className="absolute inset-0 bg-gray-200">
-      <Image
-        src={partner.image}
-        alt={partner.name}
-        width={300}
-        height={350}
-        className="w-full h-full object-contain"
-      />
-    </div>
+    <div className="relative w-full h-full">
+  <Image
+    src={partner.image}
+    alt={partner.name}
+    layout="fill"
+    objectFit="cover"
+    className="absolute inset-0 w-full h-full"
+  />
+</div>
     <div className="absolute inset-0 flex flex-col justify-end p-4 text-white bg-black/75 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
       <h3 className="text-lg font-bold">{partner.name}</h3>
       <p className="mt-1 text-sm">{partner.designation}</p>
