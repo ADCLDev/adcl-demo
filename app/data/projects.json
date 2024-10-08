@@ -5,8 +5,86 @@
       "description": "",
       "imageUrl": "/projects/architecture/MAIN.png",
       "projects": [
+        
         {
             "id": 1,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png",
+            "title": "Hoque Villa",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hoque Villa\nProject Type : Residential \nClient : Magic Bricks Holdings Limited\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: Bashundara, I-Block, Dhaka"
+            }
+        },
+
+        {
+            "id": 2,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
+            "title": "Shahera Garden",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/03.png"
+                      
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hoque Villa\nProject Type : Residential \nClient : Magic Bricks Holdings Limited\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: Bashundara, I-Block, Dhaka"
+            }
+        },
+
+        {
+            "id": 3,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
+            "title": "Hai Villa",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/03.png"
+                    
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hai Villa\nProject Type : Residential \nClient : Abdul hai\nProject  Details : G+7\nLand Area : 6 Katha\nLocation: Bashundhara r/a, Block – G,  Dhaka"
+            }
+        },
+
+        {
+            "id": 4,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
+            "title": "Hasna Hena",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/02.png"
+                    
+                    
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hasna Hena\nProject Type : Residential \nClient : Reliance Holdings limited\nProject  Details : G+9\nLand Area : 6 Katha\nLocation: Amilgola, Dhaka"
+            }
+        },
+
+        {
+            "id": 5,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
             "title": "Mulluk Tower",
@@ -28,7 +106,29 @@
         },
 
         {
-            "id": 2,
+            "id": 6,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
+            "title": "Mulluk Tower",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 A.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 B.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 C.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 E.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 F.jpg"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Mulluk Tower\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : B+G+9\nLand Area : 22 Katha\nLocation: Kamar Bari, Uttara, Dhaka"
+            }
+        },
+
+        {
+            "id": 7,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/02- Nirala Complex/01 (1).jpg",
             "title": "Nirala Complex",
@@ -53,15 +153,15 @@
         },
         
         {
-            "id": 3,
+            "id": 8,
             "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/1.EXT_Hero CAM-1_04.jpg",
+            "image": "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/001.jpg",
             "title": "Mr Zakir Residence",
             "description": "",
             "details": {
                 "images": [
                     
-                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/1.EXT_Hero CAM-1_04.jpg",
+                    "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/001.jpg",
                     "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/2.EXT_Hero CAM-2_03.jpg",
                     "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/3.EXT_Arial Cam-1_03.jpg",
                     "/projects/architecture/03- RESIDENTIAL/03- Mr. Zakir Residence/4.EXT_Arial Cam-2_03.jpg",
@@ -77,7 +177,7 @@
         },
 
         {
-            "id": 4,
+            "id": 9,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/04- Golam Rasul Jalshiri/BRIG GEN MD GOLAM RASUL_01-gigapixel-standard-scale-2_00x.jpg",
             "title": "Golam Rasul Jalshiri",
@@ -98,7 +198,7 @@
         },
 
         {
-            "id": 5,
+            "id": 10,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/05- Adel Pavilion/03.png",
             "title": "Adel Pavilion",
@@ -123,7 +223,7 @@
         },
 
         {
-            "id": 6,
+            "id": 11,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/06- Madina Venus/01.jpg",
             "title": "Madina Venus",
@@ -144,7 +244,7 @@
         },
 
         {
-            "id": 7,
+            "id": 12,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/07- Westlawn/01.png",
             "title": "Westlawn",
@@ -166,7 +266,7 @@
         },
 
         {
-            "id": 8,
+            "id": 13,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/08- Sardar Complex/01.png",
             "title": "Sardar Complex",
@@ -184,7 +284,7 @@
         },
         
         {
-            "id": 9,
+            "id": 14,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/09- Lashkar Tower/01.png",
             "title": "Lashkar Tower",
@@ -201,7 +301,7 @@
             }
         },
         {
-            "id": 10,
+            "id": 15,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/10- Masuda Tower/01.png",
             "title": "Masuda Tower",
@@ -217,7 +317,7 @@
             }
         },
         {
-            "id": 11,
+            "id": 16,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/11- Shawkat Palace/01.png",
             "title": "Shawkat Palace",
@@ -233,7 +333,7 @@
             }
         },
         {
-            "id": 12,
+            "id": 17,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/12- Reliant Paradise/01.png",
             "title": "Reliant Paradise",
@@ -251,7 +351,7 @@
             }
         },
         {
-            "id": 13,
+            "id": 18,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
             "title": "kanak chapa",
@@ -271,7 +371,7 @@
             }
         },
         {
-            "id": 14,
+            "id": 19,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/14-Pori Banu Tower/Mr, Zaman ,Demra_High_00.jpg",
             "title": "Pori Banu Tower",
@@ -289,7 +389,7 @@
             }
         },
         {
-            "id": 15,
+            "id": 20,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/15- Udayan Tower/01.jpg",
             "title": "Udayan Tower",
@@ -308,7 +408,7 @@
             }
         },
         {
-            "id": 16,
+            "id": 21,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/16- Ideal Green Valley/01.jpg",
             "title": "Ideal Green Valley",
@@ -325,7 +425,7 @@
             }
         },
         {
-            "id": 17,
+            "id": 22,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/17- Dream House/01.jpg",
             "title": "Dream House",
@@ -343,7 +443,7 @@
             }
         },
         {
-            "id": 18,
+            "id": 23,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/18- Rabbi House/Rabbi residence cam_01.jpg",
             "title": "Rabbi House",
@@ -360,7 +460,7 @@
             }
         },
         {
-            "id": 19,
+            "id": 24,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/19- Shawkat Villa/01.jpeg",
             "title": "Shawkat Villa",
@@ -379,7 +479,7 @@
             }
         },
         {
-            "id": 20,
+            "id": 25,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/20-NasirHouseBasila/01.jpg",
             "title": "Nasir House Basila",
@@ -398,7 +498,7 @@
             }
         },
           {
-              "id": 21,
+              "id": 26,
               "category": "COMMERCIAL",
               "image": "/projects/architecture/01- COMMERCIAL/01- Tower 71/01.png",
               "title": "Tower 71",
@@ -427,7 +527,7 @@
               }
           },
           {
-              "id": 22,
+              "id": 27,
               "category": "COMMERCIAL",
               "image": "/projects/architecture/01- COMMERCIAL/02- Gulshan Ara Plaza/04.png",
               "title": "Gulshan Ara Plaza",
@@ -446,7 +546,7 @@
               }
           },
           {
-              "id": 23,
+              "id": 28,
               "category": "COMMERCIAL",
               "image": "/projects/architecture/01- COMMERCIAL/03- UCEP Cheyne Tower/01.png",
               "title": "UCEP Cheyne Tower",
@@ -464,7 +564,7 @@
               }
           },
           {
-              "id": 24,
+              "id": 29,
               "category": "COMMERCIAL",
               "image": "/projects/architecture/01- COMMERCIAL/04- Green Villa/01.png",
               "title": "Green Villa",
@@ -481,7 +581,7 @@
           },
           
           {
-              "id": 26,
+              "id": 30,
               "category": "MIXED USED",
               "image": "/projects/architecture/02- MIXED USED/01- J.K Tower/01.png",
               "title": "JK Tower",
@@ -500,7 +600,7 @@
               }
           },
           {
-              "id": 27,
+              "id": 31,
               "category": "MIXED USED",
               "image": "/projects/architecture/02- MIXED USED/02- Shadhinota Bhaban/SWADHINATA BHABAN (1).jpg",
               "title": "Shadhinota Bhaban",
@@ -520,7 +620,7 @@
           },
           
           {
-              "id": 28,
+              "id": 32,
               "category": "MIXED USED",
               "image": "/projects/architecture/02- MIXED USED/03- Erfan Tower/01 (1).jpg",
               "title": "Erfan Tower",
@@ -539,7 +639,7 @@
           
           
           {
-              "id": 29,
+              "id": 33,
               "category": "INSTITUTE",
               "image": "/projects/architecture/04- INSTITUTE/01- Prime Medical College Hospital (Nursing Institute & Dormatory)/PMCH Girls Nursing Building-1_VF_00.jpg",
               "title": "Prime Medical College Hospital (Nursing Institute & Dormatory)",
@@ -561,7 +661,7 @@
               }
           },
           {
-              "id": 30,
+              "id": 34,
               "category": "INSTITUTE",
               "image": "/projects/architecture/04- INSTITUTE/02- Prime Medical Hospital (Girls Hostel)/Final -1.jpg",
               "title": "Prime Medical Hospital (Girls Hostel)",
@@ -584,7 +684,7 @@
               }
           },
           {
-              "id": 31,
+              "id": 35,
               "category": "INSTITUTE",
               "image": "/projects/architecture/04- INSTITUTE/03- Shopno Chura Resort  & Training Center/02.png",
               "title": "Shopno Chura Resort & Training Center",
@@ -601,7 +701,7 @@
               }
           },
           {
-              "id": 32,
+              "id": 36,
               "category": "HOSPITAL",
               "image": "/projects/architecture/05- HOSPITAL/02- Prime Medical College Hospital/01.jpeg",
               "title": "Prime Medical College Hospital",
@@ -618,7 +718,7 @@
               }
           },
           {
-              "id": 33,
+              "id": 37,
               "category": "HOSPITAL",
               "image": "/projects/architecture/05- HOSPITAL/03-Proposal For Universal Medical College And Hospital/WhatsApp Image 2024-08-22 at 1.31.53 PM.jpeg",
               "title": "Proposal For Universal Medical College And Hospital",
@@ -637,7 +737,7 @@
               }
           },
           {
-              "id": 34,
+              "id": 38,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/01- GML Yarn Dying Factory/cam 01.jpg",
               "title": "GML Yarn Dying Factory",
@@ -657,10 +757,10 @@
               }
           },
           {
-              "id": 35,
+              "id": 39,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/02- Tasliman/01.png",
-              "title": "Tasliman",
+              "title": "Talisman",
               "description": "",
               "details": {
                   "images": [
@@ -676,7 +776,7 @@
               }
           },
           {
-              "id": 36,
+              "id": 40,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/03-Pacific Jeans Denim Factory/cm 01.jpg",
               "title": "Pacific Jeans Denim Factory",
@@ -699,7 +799,7 @@
               }
           },
           {
-              "id": 37,
+              "id": 41,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/04- Print Craft factory/PCL001 closer (1).jpg",
               "title": "Print Craft factory",
@@ -725,7 +825,7 @@
               }
           },
           {
-              "id": 38,
+              "id": 42,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/05- Arvind/01.png",
               "title": "Arvind",
@@ -743,7 +843,7 @@
               }
           },
           {
-              "id": 39,
+              "id": 43,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/06- Bat Kustia Glt Line 1/01.png",
               "title": "Bat Kustia Glt Line 1",
@@ -762,7 +862,7 @@
               }
           },
           {
-              "id": 40,
+              "id": 44,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/07- Saiham Ware House/01.png",
               "title": "Saiham Ware House",
@@ -780,7 +880,7 @@
               }
           },
           {
-              "id": 41,
+              "id": 45,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/08- Pretty Wool Ware Ltd/02.png",
               "title": "Pretty Wool Ware Ltd",
@@ -797,7 +897,7 @@
               }
           },
           {
-              "id": 42,
+              "id": 46,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/09- Pan Pacific Sweeters/03.png",
               "title": "Pan Pacific Sweeters",
@@ -817,7 +917,7 @@
               }
           },
           {
-              "id": 43,
+              "id": 47,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/10- Star Gypsum Board Mills Ltd/01.png",
               "title": "Star Gypsum Board Mills Ltd",
@@ -837,7 +937,7 @@
               }
           },
           {
-              "id": 44,
+              "id": 48,
               "category": "INDUSTRIAL",
               "image": "/projects/architecture/06- INDUSTRIAL/11- Partex Cables/01.png",
               "title": "Partex Cables",
@@ -856,9 +956,9 @@
               }
           },
           {
-              "id": 45,
+              "id": 49,
               "category": "FILLING STATION",
-              "image": "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (1).jpg",
+              "image": "/projects/architecture/07-FILLING STATION/01- abm filing station/ABM Filling Station (2).jpg",
               "title": "abm filing station",
               "description": "",
               "details": {
@@ -877,7 +977,7 @@
               }
           },
           {
-              "id": 46,
+              "id": 50,
               "category": "FILLING STATION",
               "image": "/projects/architecture/07-FILLING STATION/02- Madina Petroleum/madina  petrolium.jpg",
               "title": "Madina Petroleum",
@@ -893,7 +993,7 @@
               }
           },
           {
-              "id": 47,
+              "id": 51,
               "category": "FILLING STATION",
               "image": "/projects/architecture/07-FILLING STATION/03- Madina Filling Stations/01.jpeg",
               "title": "Madina Filling Stations",
@@ -911,9 +1011,9 @@
               }
           },
           {
-              "id": 48,
+              "id": 53,
               "category": "STALL DESIGN",
-              "image": "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/01.jpg",
+              "image": "/projects/architecture/08- STALL DESIGN/01- Super Board & Green Board/03.jpg",
               "title": "Super Board & Green Board",
               "description": "",
               "details": {
@@ -934,7 +1034,7 @@
               }
           },
           {
-              "id": 49,
+              "id": 54,
               "category": "HOTEL & RESORT",
               "image": "/projects/architecture/09- HOTEL & RESORT/T.K RESORT/0001.png",
               "title": "T.K. RESORT",
@@ -1882,6 +1982,25 @@
     "imageUrl": "/projects/CONSTRUCTION/main/cover.png",
     "projects": [
         {
+            "id": 2,
+            "category": "RESIDENTIAL",
+            "image": "/projects/CONSTRUCTION/BasilaGarden/01.png",
+            "title": "Basila Garden",
+            "description": "",
+            "details": {
+                "images": [
+                    
+                    "/projects/CONSTRUCTION/BasilaGarden/01.png",
+                    "/projects/CONSTRUCTION/BasilaGarden/02.png"
+                    
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name:  Basila Garden\nProject Type : Residential\nClient : Madina Meritime Limited\nProject  Details : G+5\nLand Area : 5 Katha\nLocation: Basila, Dhaka"
+            }
+        },
+        {
             "id": 13,
             "category": "RESIDENTIAL",
             "image": "/projects/architecture/03- RESIDENTIAL/13- kanak chapa/Kanak Chanpa_View-13.png",
@@ -1901,6 +2020,7 @@
                 "info": "Project Name:  Kanok Chapa\nProject Type : Residential\nClient : Mrs. Kanok Chapa\nProject  Details : G+4\nLand Area : 4 Katha\nLocation: Bashundara, L-Block, Dhaka"
             }
         }
+        
     ]
   },
 

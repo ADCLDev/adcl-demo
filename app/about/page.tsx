@@ -155,9 +155,11 @@ The long-term relationships we’ve developed with our clients are critical to A
     }}
   >
     <div className="absolute inset-0 bg-gray-200">
-      <img
+      <Image
         src={partner.image}
         alt={partner.name}
+        width={300}
+        height={350}
         className="w-full h-full object-contain"
       />
     </div>
@@ -237,7 +239,7 @@ The long-term relationships we’ve developed with our clients are critical to A
           <section className="my-12 text-center">
             <h2 className="text-2xl font-bold mb-4">Contact Address</h2>
             <p className="text-zinc-900">147 Motijheel C/A, (2nd Floor), Sultan Building Dhaka-1000</p>
-            <p className="text-slate-800 mt-2">Opening Hours: Sunday-Thursday 9am - 5pm</p>
+            <p className="text-slate-800 mt-2">Opening Hours: Saturday-Thursday 10am - 6pm</p>
           </section>
         </div>
       </motion.div>

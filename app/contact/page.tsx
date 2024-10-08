@@ -109,7 +109,7 @@ export default function Example() {
 		<section className="my-12 text-center">
             <h2 className="text-2xl font-bold mb-4">Contact Address</h2>
             <p className="text-zinc-900">147 Motijheel C/A, (2nd Floor), Sultan Building Dhaka-1000</p>
-            <p className="text-slate-900 mt-2">Opening Hours: Sunday-Thursday 9am - 5pm</p>
+            <p className="text-slate-900 mt-2">Opening Hours: Saturday-Thursday 10am - 6pm</p>
           </section>
 
 					

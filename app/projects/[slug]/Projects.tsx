@@ -36,16 +36,16 @@ const Projects: React.FC<ProjectsProps> = ({ projects, slug, onLoadMore, hasMore
           </Link>
         ))}
       </div>
-      {hasMore && (
-        <div className="mt-8 text-center">
-          <button
-            onClick={onLoadMore}
-            className="bg-black hover:text-[#FFD700] text-white font-bold py-2 px-4 rounded"
-          >
-            Load More
-          </button>
-        </div>
-      )}
+      {/* {hasMore && (
+        // <div className="mt-8 text-center">
+        //   <button
+        //     onClick={onLoadMore}
+        //     className="bg-black hover:text-[#FFD700] text-white font-bold py-2 px-4 rounded"
+        //   >
+        //     Load More
+        //   </button>
+        // </div>
+      )} */}
     </div>
   );
 };
