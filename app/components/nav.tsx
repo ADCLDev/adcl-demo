@@ -112,7 +112,7 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
             {/* Mobile Menu Button */}
             <button
               onClick={() => setIsMenuOpen(!isMenuOpen)}
-              className="md:hidden text-zinc-100 hover:text-[#FFD700] focus:outline-none"
+              className="md:hidden text-black hover:text-[#FFD700] focus:outline-none"
             >
               {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
@@ -127,7 +127,7 @@ export const Navigation: React.FC<NavigationProps> = ({ pathName }) => {
                 exit="closed"
                 variants={menuVariants}
                 transition={{ duration: 0.3 }}
-                className="md:hidden bg-zinc-900 overflow-hidden"
+                className="md:hidden bg-black text-white overflow-hidden"
               >
                 {renderNavItems()}
               </motion.nav>
