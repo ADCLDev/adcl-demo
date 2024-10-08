@@ -104,29 +104,6 @@
                 "info": "Project Name: Mulluk Tower\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : B+G+9\nLand Area : 22 Katha\nLocation: Kamar Bari, Uttara, Dhaka"
             }
         },
-
-        {
-            "id": 6,
-            "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
-            "title": "Mulluk Tower",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 G.png",
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 A.jpg",
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 B.jpg",
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 C.jpg",
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 E.jpg",
-                    "/projects/architecture/03- RESIDENTIAL/01- Mulluk Tower/26.06.2023 F.jpg"
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Mulluk Tower\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : B+G+9\nLand Area : 22 Katha\nLocation: Kamar Bari, Uttara, Dhaka"
-            }
-        },
-
         {
             "id": 7,
             "category": "RESIDENTIAL",
