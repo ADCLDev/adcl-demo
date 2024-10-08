@@ -168,7 +168,7 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
             </motion.div>
           )}
 
-          {(activeTab === 'INFORMATION' || activeTab === 'DESCRIPTION') && (
+          {(activeTab === 'INFORMATION' ) && (
             <motion.div
               className="bg-white bg-opacity-90 backdrop-blur-md rounded-lg p-6 shadow-lg"
               initial={{ opacity: 0 }}
@@ -176,9 +176,24 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
               transition={{ duration: 0.5 }}
             >
               <p className="text-gray-800 text-lg sm:text-xl lg:text-2xl leading-relaxed">
-                {formatText(activeTab === 'INFORMATION' ? info : description)}
+                {formatText(info)}
               </p>
             </motion.div>
+            
+          )}
+
+          {(activeTab === 'DESCRIPTION') && (
+            <motion.div
+            className="bg-transparent bg-opacity-90 backdrop-blur-md rounded-lg p-6 shadow-lg"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ duration: 0.5 }}
+          >
+            <p className="text-gray-800 text-lg sm:text-xl lg:text-2xl leading-relaxed">
+              {formatText(description)}
+            </p>
+          </motion.div>
+
           )}
         </motion.div>
       </div>
