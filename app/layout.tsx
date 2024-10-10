@@ -8,12 +8,12 @@ import 'leaflet/dist/leaflet.css'; // Leaflet CSS
 
 export const metadata: Metadata = {
   title: {
-    default: "ARCHDCL | Leading Architectural Firm in Bangladesh",
+    default: "Arch Design & Construction Limited | Leading Architectural Firm in Bangladesh",
     template: "%s | ARCHDCL - Bangladesh Architecture",
   },
-  description: "ARCHDCL is a premier architectural firm in Bangladesh, offering innovative design solutions for residential and commercial projects.",
+  description: "Arch Design & Construction Limited is a premier architectural firm in Bangladesh, offering innovative design solutions for residential and commercial projects.",
   openGraph: {
-    title: "ARCHDCL | Top Architectural Firm in Bangladesh",
+    title: "Arch Design & Construction Limited | Top Architectural Firm in Bangladesh",
     description:
       "Discover ARCHDCL, Bangladesh's leading architectural firm. Innovative designs for residential, commercial, and urban projects.",
     url: "https://archdcl.com",
