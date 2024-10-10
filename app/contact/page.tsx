@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import { Mail, X } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
@@ -35,11 +35,6 @@ const socials: Social[] = [
   },
 ];
 
-interface HandleSelectorProps {
-  social: Social;
-  onClose: () => void;
-}
-
 const getHref = (label: string, handle: string): string => {
   switch (label) {
     case "Whatsapp Business":
@@ -53,12 +48,17 @@ const getHref = (label: string, handle: string): string => {
   }
 };
 
+interface HandleSelectorProps {
+  social: Social;
+  onClose: () => void;
+}
+
 const HandleSelector: React.FC<HandleSelectorProps> = ({ social, onClose }) => {
   return (
     <div className="p-8 relative bg-gradient-to-br from-slate-900 to-gray-800 rounded-lg shadow-2xl text-white">
       <button
         onClick={onClose}
-        className="absolute text-white top-4 right-4 hover:text-black hover:bg-white transition-colors duration-200"
+        className="absolute hover:rounded-xl text-white top-4 right-4 hover:text-black hover:bg-white transition-colors duration-200"
         aria-label="Close"
       >
         <X size={24} />
@@ -67,7 +67,7 @@ const HandleSelector: React.FC<HandleSelectorProps> = ({ social, onClose }) => {
       <div className="space-y-4">
         {social.handles.map((handle, index) => (
           <Link key={index} href={getHref(social.label, handle)} onClick={onClose}>
-            <button className="w-full mb-2 text-left px-6 py-3 bg-white bg-opacity-20 hover:bg-opacity-30 rounded-lg transition-all duration-200 font-medium">
+            <button className="w-full mb-2 text-left px-6 py-3 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-lg transition-all duration-200 font-medium">
               {handle}
             </button>
           </Link>
@@ -78,33 +78,33 @@ const HandleSelector: React.FC<HandleSelectorProps> = ({ social, onClose }) => {
 };
 
 export default function Example() {
-  const dhakaCoordinates = { lat: 23.8103, lng: 90.4125 };
-  const pathname = usePathname();
-  const address = `23°43'31.9"N 90°25'21.1"E`;
-  const [selectedSocial, setSelectedSocial] = useState<Social | null>(null);
-
-  const handleClick = (e: React.MouseEvent, s: Social) => {
-    if ((e.target as HTMLElement).tagName === 'SPAN' && (e.target as HTMLElement).classList.contains('handle')) {
-      const handle = (e.target as HTMLElement).textContent;
-      if (handle) {
-        window.open(getHref(s.label, handle), '_blank');
-      }
-    } else {
-      setSelectedSocial(s);
-    }
-  };
-
-  useEffect(() => {
-    if (selectedSocial) {
-      document.body.style.overflow = 'hidden';
-    } else {
-      document.body.style.overflow = 'unset';
-    }
-
-    return () => {
-      document.body.style.overflow = 'unset';
-    };
-  }, [selectedSocial]);
+	const dhakaCoordinates = { lat: 23.8103, lng: 90.4125 };
+	const pathname = usePathname();
+	const address = `23°43'31.9"N 90°25'21.1"E`;
+	const [selectedSocial, setSelectedSocial] = useState<Social | null>(null);
+	const popupRef = useRef<HTMLDivElement>(null);
+  
+	const handleClick = (s: Social) => {
+	  setSelectedSocial(s);
+	};
+  
+	const handleOutsideClick = useCallback((e: React.MouseEvent<HTMLDivElement>) => {
+	  if (popupRef.current && !popupRef.current.contains(e.target as Node)) {
+		setSelectedSocial(null);
+	  }
+	}, []);
+  
+	useEffect(() => {
+	  if (selectedSocial) {
+		document.addEventListener('mousedown', handleOutsideClick as unknown as EventListener);
+	  } else {
+		document.removeEventListener('mousedown', handleOutsideClick as unknown as EventListener);
+	  }
+  
+	  return () => {
+		document.removeEventListener('mousedown', handleOutsideClick as unknown as EventListener);
+	  };
+	}, [selectedSocial, handleOutsideClick]);
 
   return (
     <div className="bg-gradient-to-tl from-slate-200 via-slate-100/70 to-slate-300">
@@ -125,7 +125,7 @@ export default function Example() {
                   className="p-4 bg-black relative flex flex-col items-center gap-4 duration-700 group md:gap-8 md:py-24 lg:pb-48 md:p-16 cursor-pointer"
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
-                  onClick={(e) => handleClick(e, s)}
+                  onClick={() => handleClick(s)}
                 >
                   <span
                     className="absolute w-px h-2/3 bg-gradient-to-b from-zinc-500 via-zinc-500/50 to-transparent"
@@ -152,25 +152,28 @@ export default function Example() {
       </div>
 
       <AnimatePresence>
-        {selectedSocial && (
-          <motion.div 
-            className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-          >
-            <motion.div 
-              className="bg-white rounded-lg shadow-2xl"
-              initial={{ scale: 0.9, opacity: 0 }}
-              animate={{ scale: 1, opacity: 1 }}
-              exit={{ scale: 0.9, opacity: 0 }}
-              transition={{ type: "spring", damping: 20, stiffness: 300 }}
-            >
-              <HandleSelector social={selectedSocial} onClose={() => setSelectedSocial(null)} />
-            </motion.div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+		  {selectedSocial && (
+			<motion.div 
+			  className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 overflow-y-auto"
+			  initial={{ opacity: 0 }}
+			  animate={{ opacity: 1 }}
+			  exit={{ opacity: 0 }}
+			  onClick={handleOutsideClick}
+			>
+			  <motion.div 
+				ref={popupRef}
+				className="bg-white rounded-lg shadow-2xl m-4"
+				initial={{ scale: 0.9, opacity: 0 }}
+				animate={{ scale: 1, opacity: 1 }}
+				exit={{ scale: 0.9, opacity: 0 }}
+				transition={{ type: "spring", damping: 20, stiffness: 300 }}
+				onClick={(e) => e.stopPropagation()}
+			  >
+				<HandleSelector social={selectedSocial} onClose={() => setSelectedSocial(null)} />
+			  </motion.div>
+			</motion.div>
+		  )}
+		</AnimatePresence>
 
       <motion.div
         initial={{ opacity: 1, y: -400 }}
@@ -194,3 +197,5 @@ export default function Example() {
     </div>
   );
 }
+
+
