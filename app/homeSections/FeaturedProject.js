@@ -1,5 +1,7 @@
 "use client";
+
 import Link from "next/link";
+import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
 import projects from "../data/projects.json"; // Assuming your project data is here
@@ -36,18 +38,21 @@ const FeaturedProject = () => {
                   rotateY: -10,
                   transition: { duration: 0.1 },
                 }}
-                style={{
-                  backgroundImage: `url(${project.imageUrl})`,
-                  backgroundSize: "cover",
-                  backgroundPosition: "center",
-                  height: "300px",
-                }}
               >
+                <div style={{ height: "300px", position: "relative" }}>
+                  <Image
+                    src={project.imageUrl}
+                    alt={project.title}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                    style={{ objectFit: "cover" }}
+                    priority={false}
+                  />
+                </div>
                 <div className="absolute inset-0 flex items-end justify-center">
                   <div className="w-[90%] bg-black/90 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-4 mb-4 rounded">
-                  <h3 className="text-lg font-bold text-white uppercase">{project.title}</h3>
-                  <p className="mt-2 text-sm text-white uppercase">{project.description}</p>
-
+                    <h3 className="text-lg font-bold text-white uppercase">{project.title}</h3>
+                    <p className="mt-2 text-sm text-white uppercase">{project.description}</p>
                   </div>
                 </div>
               </motion.div>
