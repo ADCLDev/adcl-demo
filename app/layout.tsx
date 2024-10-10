@@ -2,29 +2,30 @@ import "../global.css";
 import { Inter } from "@next/font/google";
 import LocalFont from "@next/font/local";
 import { Metadata } from "next";
-import { Analytics } from "./components/analytics"; // Your global CSS file
+import { Analytics } from "./components/analytics";
+// Your global CSS file
 import 'leaflet/dist/leaflet.css'; // Leaflet CSS
 
 export const metadata: Metadata = {
   title: {
-    default: "wingaibd.com",
-    template: "%s | chronark.com",
+    default: "ARCHDCL | Leading Architectural Firm in Bangladesh",
+    template: "%s | ARCHDCL - Bangladesh Architecture",
   },
-  description: "Architecture Portfolio Design By Wing AI",
+  description: "ARCHDCL is a premier architectural firm in Bangladesh, offering innovative design solutions for residential and commercial projects.",
   openGraph: {
-    title: "ARCH Design | WING A.I.",
+    title: "ARCHDCL | Top Architectural Firm in Bangladesh",
     description:
-      "Architecture Portfolio Design By Wing AI",
-    url: "https://wingaibd.com",
-    siteName: "ARCH Design | WING A.I.",
+      "Discover ARCHDCL, Bangladesh's leading architectural firm. Innovative designs for residential, commercial, and urban projects.",
+    url: "https://archdcl.com",
+    siteName: "ARCHDCL - Bangladesh Architecture",
     images: [
       {
-        url: "https://wingaibd.com/",
-        width: 1920,
-        height: 1080,
+        url: "https://archdcl.com/",
+        width: 1200,
+        height: 630,
       },
     ],
-    locale: "en-US",
+    locale: "en-BD",
     type: "website",
   },
   robots: {
@@ -39,13 +40,17 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "ARCHDCL - Leading Architectural Firm in Bangladesh",
     card: "summary_large_image",
   },
   icons: {
-    shortcut: "/favicon.png",
+    icon: "/faviconadcl.ico",
+    shortcut: "/faviconadcl.ico",
+    apple: "/faviconadcl.ico",
   },
+  keywords: "architecture, Bangladesh, ARCHDCL, architectural firm, design, Dhaka, residential, commercial, urban planning",
 };
+
 const inter = Inter({
   subsets: ["latin"],
   variable: "--font-inter",
@@ -67,8 +72,9 @@ export default function RootLayout({
         <Analytics />
       </head>
       <body
-        className={`bg-black ${process.env.NODE_ENV === "development" ? "debug-screens" : undefined
-          }`}
+        className={`bg-black ${
+          process.env.NODE_ENV === "development" ? "debug-screens" : undefined
+        }`}
       >
         {children}
       </body>

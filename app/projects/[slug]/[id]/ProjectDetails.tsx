@@ -1,4 +1,4 @@
-import React, { useState, useCallback } from 'react';
+import React, { useState, useCallback, useRef, useEffect } from 'react';
 import { motion, useAnimation, AnimationControls } from 'framer-motion';
 import Image from 'next/image';
 import ReactPlayer from 'react-player';
@@ -23,24 +23,51 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
 
   const [visibleImages, setVisibleImages] = useState<string[]>(images.slice(0, 8));
   const [visibleDrawings, setVisibleDrawings] = useState<string[]>(drawings.slice(0, 8));
+  const [animationComplete, setAnimationComplete] = useState<boolean>(false);
 
-  const handleLoadMore = () => {
+  const observer = useRef<IntersectionObserver | null>(null);
+  const lastImageRef = useRef<HTMLDivElement | null>(null);
+
+  const handleLoadMore = useCallback(() => {
     if (activeTab === 'IMAGES') {
       const currentLength = visibleImages.length;
       const newImages = images.slice(currentLength, currentLength + 8);
-      setVisibleImages([...visibleImages, ...newImages]);
+      setVisibleImages(prevImages => [...prevImages, ...newImages]);
     } else if (activeTab === 'DRAWINGS') {
       const currentLength = visibleDrawings.length;
       const newDrawings = drawings.slice(currentLength, currentLength + 8);
-      setVisibleDrawings([...visibleDrawings, ...newDrawings]);
+      setVisibleDrawings(prevDrawings => [...prevDrawings, ...newDrawings]);
     }
-  };
+    setAnimationComplete(false);
+  }, [activeTab, images, drawings, visibleImages, visibleDrawings]);
+
+  useEffect(() => {
+    observer.current = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting && animationComplete) {
+          handleLoadMore();
+        }
+      },
+      { threshold: 1.0 }
+    );
+
+    if (lastImageRef.current) {
+      observer.current.observe(lastImageRef.current);
+    }
+
+    return () => {
+      if (observer.current) {
+        observer.current.disconnect();
+      }
+    };
+  }, [handleLoadMore, animationComplete]);
 
   const handleTabChange = (tab: string) => {
     setActiveTab(tab);
     controls.start({ opacity: 0 }).then(() => {
       controls.start({ opacity: 1 });
     });
+    setAnimationComplete(false);
   };
 
   const handleImageClick = (image: string, index: number) => {
@@ -55,16 +82,38 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
 
   const iconSize = 20;
 
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: (custom: number) => ({
+      opacity: 1,
+      y: 0,
+      transition: {
+        delay: custom * 0.2,
+        duration: 0.5,
+        type: 'spring',
+        stiffness: 100,
+        damping: 12
+      }
+    })
+  };
+
   const renderImageGrid = (imageArray: string[], visibleArray: string[]) => (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
       {visibleArray.map((img, index) => (
         <motion.div
           key={index}
+          custom={index}
+          variants={itemVariants}
+          initial="hidden"
+          animate="visible"
           className="relative aspect-square rounded-lg overflow-hidden cursor-pointer shadow-lg hover:shadow-xl transition-shadow duration-300"
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.5 }}
           onClick={() => handleImageClick(img, index)}
+          ref={index === visibleArray.length - 1 ? lastImageRef : null}
+          onAnimationComplete={() => {
+            if (index === visibleArray.length - 1) {
+              setAnimationComplete(true);
+            }
+          }}
         >
           <Image
             src={img}
@@ -144,25 +193,15 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
           {(activeTab === 'IMAGES' || activeTab === 'DRAWINGS') && (
             <>
               {renderImageGrid(activeTab === 'IMAGES' ? images : drawings, activeTab === 'IMAGES' ? visibleImages : visibleDrawings)}
-              {(activeTab === 'IMAGES' ? visibleImages.length < images.length : visibleDrawings.length < drawings.length) && (
-                <div className="flex justify-center mt-8">
-                  <button
-                    onClick={handleLoadMore}
-                    className="px-6 py-3 bg-black text-[#FFD700] rounded-lg hover:bg-[#FFD700] hover:text-black transition-colors duration-300 shadow-md hover:shadow-lg"
-                  >
-                    Load More
-                  </button>
-                </div>
-              )}
             </>
           )}
 
           {activeTab === 'VIDEOS' && videoUrl && (
             <motion.div
               className="relative w-full aspect-video rounded-lg overflow-hidden shadow-lg"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 0.5 }}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, type: 'spring', stiffness: 100, damping: 12 }}
             >
               <ReactPlayer url={videoUrl} controls width="100%" height="100%" />
             </motion.div>
@@ -171,29 +210,27 @@ const ProjectDetails: React.FC<ProjectDetailsProps> = ({ title, images, drawings
           {(activeTab === 'INFORMATION' ) && (
             <motion.div
               className="bg-white bg-opacity-90 backdrop-blur-md rounded-lg p-6 shadow-lg"
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ duration: 0.5 }}
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, type: 'spring', stiffness: 100, damping: 12 }}
             >
               <p className="text-gray-800 text-lg sm:text-xl lg:text-2xl leading-relaxed">
                 {formatText(info)}
               </p>
             </motion.div>
-            
           )}
 
           {(activeTab === 'DESCRIPTION') && (
             <motion.div
-            className="bg-transparent bg-opacity-90 backdrop-blur-md rounded-lg p-6 shadow-lg"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.5 }}
-          >
-            <p className="text-gray-800 text-lg sm:text-xl lg:text-2xl leading-relaxed">
-              {formatText(description)}
-            </p>
-          </motion.div>
-
+              className="bg-transparent bg-opacity-90 backdrop-blur-md rounded-lg p-6 shadow-lg"
+              initial={{ opacity: 0, y: 20 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.5, type: 'spring', stiffness: 100, damping: 12 }}
+            >
+              <p className="text-gray-800 text-lg sm:text-xl lg:text-2xl leading-relaxed">
+                {formatText(description)}
+              </p>
+            </motion.div>
           )}
         </motion.div>
       </div>

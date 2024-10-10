@@ -1314,24 +1314,7 @@
                 "info": "Project Name: Interior Design Works For Nasir Basila\nProject Type : Interior\nClient : Mr. Nasir\nProject  Details : Interior Design & Fit-out Works\nLocation: Basila, Dhaka"
             }
         },
-        {
-            "id": 32,
-            "category": "RESIDENCE INTERIOR",
-            "image": "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
-            "title": "Nasir Uddin",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/01.png",
-                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/02.png",
-                    "/projects/interior/06- RESIDENCE INTERIOR/09- Nasir Uddin/03.png"
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Interior Fit-out Works For Mr. Nasir Uddin\nProject Type : Interior\nClient : Mr. Nasir Uddin\nProject  Details : Interior Design & Fit-out Works \nLocation: Basila, Garden City, Dhaka"
-            }
-        },
+        
         
           {
               "id": 1,
