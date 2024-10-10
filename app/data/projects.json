@@ -6,82 +6,7 @@
       "imageUrl": "/projects/architecture/MAIN.png",
       "projects": [
         
-        {
-            "id": 1,
-            "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png",
-            "title": "Hoque Villa",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png"
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Hoque Villa\nProject Type : Residential \nClient : Magic Bricks Holdings Limited\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: Bashundara, I-Block, Dhaka"
-            }
-        },
-
-        {
-            "id": 2,
-            "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
-            "title": "Shahera Garden",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
-                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/02.png",
-                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/03.png"
-                      
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Shahera Garden\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : G+7\nLand Area : 4 Katha\nLocation: Bashundara G-Block, Dhaka"
-            }
-        },
-
-        {
-            "id": 3,
-            "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
-            "title": "Hai Villa",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
-                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/02.png",
-                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/03.png"
-                    
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Hai Villa\nProject Type : Residential \nClient : Abdul hai\nProject  Details : G+7\nLand Area : 6 Katha\nLocation: Bashundhara r/a, Block – G,  Dhaka"
-            }
-        },
-
-        {
-            "id": 4,
-            "category": "RESIDENTIAL",
-            "image": "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
-            "title": "Hasna Hena",
-            "description": "",
-            "details": {
-                "images": [
-                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
-                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/02.png"
-                    
-                    
-                ],
-                "drawings": [],
-                "videoUrl": "",
-                "description": "",
-                "info": "Project Name: Hasna Hena\nProject Type : Residential \nClient : Reliance Holdings limited\nProject  Details : G+9\nLand Area : 6 Katha\nLocation: Amilgola, Dhaka"
-            }
-        },
+        
 
         {
             "id": 5,
@@ -365,6 +290,85 @@
                 "info": "Project Name: Pori Banu Tower\nProject Type : Residential\nClient : Mr. Zaman \nProject  Details : G+9\nLand Area : 6.5 Katha \nLocation: Demra, Dhaka"
             }
         },
+
+        {
+            "id": 1,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png",
+            "title": "Hoque Villa",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/HoqueVila/01.png"
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hoque Villa\nProject Type : Residential \nClient : Magic Bricks Holdings Limited\nProject  Details : G+8\nLand Area : 5 Katha\nLocation: Bashundara, I-Block, Dhaka"
+            }
+        },
+
+        {
+            "id": 2,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
+            "title": "Shahera Garden",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/ShaheraGarden/03.png"
+                      
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Shahera Garden\nProject Type : Residential \nClient : Madina Developments Limited\nProject  Details : G+7\nLand Area : 4 Katha\nLocation: Bashundara G-Block, Dhaka"
+            }
+        },
+
+        {
+            "id": 3,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
+            "title": "Hai Villa",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/02.png",
+                    "/projects/architecture/03- RESIDENTIAL/04- Hai Villa/03.png"
+                    
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hai Villa\nProject Type : Residential \nClient : Abdul hai\nProject  Details : G+7\nLand Area : 6 Katha\nLocation: Bashundhara r/a, Block – G,  Dhaka"
+            }
+        },
+
+        {
+            "id": 4,
+            "category": "RESIDENTIAL",
+            "image": "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
+            "title": "Hasna Hena",
+            "description": "",
+            "details": {
+                "images": [
+                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/01.png",
+                    "/projects/architecture/03- RESIDENTIAL/Hasna Hena/02.png"
+                    
+                    
+                ],
+                "drawings": [],
+                "videoUrl": "",
+                "description": "",
+                "info": "Project Name: Hasna Hena\nProject Type : Residential \nClient : Reliance Holdings limited\nProject  Details : G+9\nLand Area : 6 Katha\nLocation: Amilgola, Dhaka"
+            }
+        },
+
+        
         {
             "id": 20,
             "category": "RESIDENTIAL",
