@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Block access to admin pages
+Disallow: /admin/
+Disallow: /private/
+
+# Allow crawling of important pages
+Allow: /about
+Allow: /contact
+Allow: /projects
+
+# Sitemap location
+Sitemap: https://archdcl.com/sitemap.xml

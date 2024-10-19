@@ -1,10 +1,8 @@
-"use client";
-
 import Link from "next/link";
 import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
-import projects from "../data/projects.json"; // Assuming your project data is here
+import projects from "../data/projects.json";
 
 const sectionVariants = {
   hidden: { opacity: 0, y: 50 },
@@ -39,7 +37,11 @@ const FeaturedProject = () => {
                   transition: { duration: 0.1 },
                 }}
               >
-                <div style={{ height: "300px", position: "relative" }}>
+                <div 
+                  style={{ height: "300px", position: "relative" }}
+                  className="select-none" // Prevent text selection
+                  onContextMenu={(e) => e.preventDefault()} // Disable right-click context menu
+                >
                   <Image
                     src={project.imageUrl}
                     alt={project.title}
@@ -47,7 +49,10 @@ const FeaturedProject = () => {
                     sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
                     style={{ objectFit: "cover" }}
                     priority={false}
+                    unoptimized={true} // Bypass Next.js image optimization
+                    draggable={false} // Prevent dragging of image
                   />
+                  <div className="absolute inset-0 bg-transparent pointer-events-none"></div>
                 </div>
                 <div className="absolute inset-0 flex items-end justify-center">
                   <div className="w-[90%] bg-black/90 opacity-0 group-hover:opacity-100 transition-opacity duration-300 p-4 mb-4 rounded">

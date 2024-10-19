@@ -7,49 +7,30 @@ import { Analytics } from "./components/analytics";
 import 'leaflet/dist/leaflet.css'; // Leaflet CSS
 
 export const metadata: Metadata = {
-  title: {
-    default: "Arch Design & Construction Limited | Leading Architectural Firm in Bangladesh",
-    template: "%s | ARCHDCL - Bangladesh Architecture",
-  },
-  description: "Arch Design & Construction Limited is a premier architectural firm in Bangladesh, offering innovative design solutions for residential and commercial projects.",
+  metadataBase: new URL('https://archdcl.com'),
+  title: 'ArchDCL - Archtecture Firm',
+  description: 'A Architecture Firm in Bangladesh',
+  keywords: ['architecture', 'design', 'add relevant keywords'],
   openGraph: {
-    title: "Arch Design & Construction Limited | Top Architectural Firm in Bangladesh",
-    description:
-      "Discover ARCHDCL, Bangladesh's leading architectural firm. Innovative designs for residential, commercial, and urban projects.",
-    url: "https://archdcl.com",
-    siteName: "ARCHDCL - Bangladesh Architecture",
+    title: 'ArchDCL',
+    description: 'A Architecture Firm in Bangladesh',
+    url: 'https://archdcl.com',
+    siteName: 'ArchDCL',
     images: [
       {
-        url: "https://archdcl.com/",
+        url: 'https://www.archdcl.com/Arch%20logo%202.png',
         width: 1200,
         height: 630,
       },
     ],
-    locale: "en-BD",
-    type: "website",
+    locale: 'en_US',
+    type: 'website',
   },
   robots: {
     index: true,
     follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
-    },
-  },
-  twitter: {
-    title: "ARCHDCL - Leading Architectural Firm in Bangladesh",
-    card: "summary_large_image",
-  },
-  icons: {
-    icon: "/faviconadcl.ico",
-    shortcut: "/faviconadcl.ico",
-    apple: "/faviconadcl.ico",
-  },
-  keywords: "architecture, Bangladesh, ARCHDCL, architectural firm, design, Dhaka, residential, commercial, urban planning",
-};
+  }
+}
 
 const inter = Inter({
   subsets: ["latin"],
